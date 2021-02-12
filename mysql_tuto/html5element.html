@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<title>html5</title>
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<section class="control-form">
+			<h1>Registration</h1>
+			<form class="html5" action="test.php" action="GET" enctype="multipart/form-data" target="_self">
+				<label>username</label>
+				<input type="text" name="username" placeholder="username" autocomplete="off" autofocus value="saber" disabled required/>
+
+				<label>lastname</label>
+				<input type="text" name="lastname" placeholder="lastname" auutocomplete="on" value="belkhir" readonly/>
+
+				<label>email</label>
+				<input type="email" name="email" placeholder="email" autocomplete="off" required/>
+				
+				<label>phone number</label>
+				<input type="number" name="phone" placeholder="phone number" />
+
+				<label>password</label>
+				<input type="password" name="pass" placeholder="password" autocomplete="new-password"/>
+
+				<label>upload file</label>
+				<input type="file" name="file" multiple />
+
+				<input type="submit" value="default Send" />
+				<input 	type="submit"
+						formmethod="POST"
+						formnovalidate
+						formaction="manage.php"
+						value="Post Send" formtarget="_blanck"/>
+
+				<input type="submit" formnovalidate value="Get Send" />
+			</form>	
+		</section>
+		
+
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+

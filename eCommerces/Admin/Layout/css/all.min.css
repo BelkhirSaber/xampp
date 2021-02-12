@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WRMX62N');</script>
+<!-- End Google Tag Manager -->   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,user-scalable=0,initial-scale=1,maximum-scale=1, minimum-scale=1" />
+  <link rel="shortcut icon" href="https://recoverit.wondershare.com/favicon.ico" type="image/x-icon" />
+  <title>[Wondershare] Page Not Found</title>
+  <meta name="description" content="Page Not Found" />
+  <link href="https://recoverit.wondershare.com/style/global_fonts.css" rel="stylesheet" type="text/css" />
+  
+  <link as="style" rel="preload"  href="https://recoverit.wondershare.com/style/global.css">
+  <link as="style" rel="preload"  href="https://recoverit.wondershare.com/style/others.css">
+  <link as="style" rel="stylesheet"  href="https://recoverit.wondershare.com/style/global.css">
+  <link as="style" rel="stylesheet"  href="https://recoverit.wondershare.com/style/others.css">
+  
+  <script src="https://recoverit.wondershare.com/script/jquery-1.9.1.min.js"></script>
+  <script src="https://recoverit.wondershare.com/script/main.js" async></script>
+  <!--<link as="style" rel="preload"  href="https://images.wondershare.com/wsc-18/assets/style/bootstrap-recoverit.min.css">-->
+  <link rel="stylesheet" href="https://images.wondershare.com/wsc-18/assets/style/bootstrap-recoverit.min.css">
+
+	<link rel="stylesheet" href="https://cdn.bootcss.com/Swiper/4.5.0/css/swiper.min.css">
+	<script src="https://cdn.bootcss.com/Swiper/4.5.0/js/swiper.min.js"></script>
+<style>
+    .wsc-main{
+        min-height: auto;
+    }
+    .input-content form{
+        display: flex;
+    }
+    .input-content input{
+        border: 1px solid #f1f1f1;
+        flex: 1;
+
+    }
+
+</style></head>
+<body data-sys="auto">
+<!--web notification code-->
+<script>
+  var _NOTIFICATION_CONFIG = {worker: "/web-notification/sw.js"};
+  (function() {
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src='/web-notification/wsNotification.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- end web notification code-->
+<!-- ws.com Google Tag Manager (noscript) Body -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRMX62N"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End ws.com Google Tag Manager (noscript) Body-->
+
+<link rel="stylesheet" href="https://neveragain.allstatics.com/2019/assets/style/wsc-header-footer-2020.min.css" />
+
+<header class="wsc-header2020">
+	<nav class="wsc-header2020-navbar-master wsc-header202004-navbar-wondershare">
+		<div class="wsc-header2020-container">
+			<div class="wsc-header2020-navbar-content">
+				<div class="wsc-header2020-navbar-brand">
+					<a href="https://www.wondershare.com/"></a>
+				</div>
+				<button class="wsc-header2020-navbar-collapse-toggle" type="button" aria-expanded="false">
+					<svg class="wsc-header2020-navbar-collapse-toggle-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M4 6H20M20 12L4 12M20 18H4" stroke="white" stroke-width="1.5"/>
+					</svg>
+					<svg class="wsc-header2020-navbar-collapse-toggle-icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M18 18L12 12M6 6L12 12M18 6L12 12M6 18L12 12" stroke="white" stroke-width="1.5"/>
+					</svg>
+				</button>
+				<div class="wsc-header2020-navbar-collapse">
+					<ul class="wsc-header2020-navbar-nav">
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-link" href="https://www.wondershare.com/products-solutions/digitalcreativity">Creativity</a>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-link" href="https://www.wondershare.com/products-solutions/officeproductivity/">Productivity</a>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-link active" href="https://www.wondershare.com/products-solutions/datamanagement">Utility</a>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-link" href="https://support.wondershare.com/">Support</a>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-link" href="https://news.wondershare.com/">News</a>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-link" href="https://www.wondershare.com/shop">
+								<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M6.60562 15.0007C6.80798 14.9907 6.99862 14.9065 7.13818 14.7654C7.27774 14.6242 7.35555 14.437 7.35555 14.2424C7.35555 14.0478 7.27774 13.8606 7.13818 13.7195C6.99862 13.5783 6.80798 13.4941 6.60562 13.4841C6.17048 13.4841 5.81653 13.8241 5.81653 14.2421C5.81653 14.6607 6.17048 15.0007 6.60562 15.0007ZM6.60562 12.4855C7.09081 12.4855 7.55613 12.6706 7.89922 13.0002C8.2423 13.3297 8.43504 13.7767 8.43504 14.2427C8.43504 14.7088 8.2423 15.1558 7.89922 15.4853C7.55613 15.8149 7.09081 16 6.60562 16C6.12043 16 5.65511 15.8149 5.31203 15.4853C4.96894 15.1558 4.7762 14.7088 4.7762 14.2427C4.7762 13.7767 4.96894 13.3297 5.31203 13.0002C5.65511 12.6706 6.12043 12.4855 6.60562 12.4855ZM13.4555 15.0007C13.6579 14.9907 13.8485 14.9065 13.9881 14.7654C14.1277 14.6242 14.2055 14.437 14.2055 14.2424C14.2055 14.0478 14.1277 13.8606 13.9881 13.7195C13.8485 13.5783 13.6579 13.4941 13.4555 13.4841C13.0197 13.4841 12.6657 13.8241 12.6657 14.2421C12.6657 14.6607 13.0197 15.0007 13.4548 15.0007H13.4555ZM13.4555 12.4855C13.6987 12.4811 13.9404 12.5233 14.1664 12.6097C14.3924 12.696 14.5982 12.8248 14.7718 12.9885C14.9454 13.1522 15.0832 13.3475 15.1772 13.563C15.2713 13.7785 15.3197 14.0098 15.3195 14.2434C15.3194 14.4771 15.2707 14.7083 15.1764 14.9237C15.0821 15.1391 14.9441 15.3342 14.7703 15.4977C14.5965 15.6612 14.3906 15.7898 14.1645 15.8759C13.9384 15.9621 13.6966 16.004 13.4535 15.9993C12.9772 15.9866 12.5248 15.796 12.1927 15.4678C11.8605 15.1397 11.6747 14.7001 11.6748 14.2424C11.6749 13.7847 11.8608 13.3452 12.1931 13.0172C12.5254 12.6892 12.9779 12.4987 13.4541 12.4861L13.4555 12.4855ZM7.00676 7.92367L14.2412 7.0857C14.2412 7.0857 14.6069 5.37711 14.8741 4.0625C14.8797 4.03317 5.52365 4.05583 3.3278 4.06116L5.52296 10.3856H14.8262C15.1108 10.3856 15.3405 10.6182 15.3405 10.9042C15.3405 11.1915 15.1101 11.4242 14.8269 11.4242H5.15722C5.04842 11.4227 4.9429 11.3882 4.85567 11.3257C4.76845 11.2633 4.70396 11.1759 4.67141 11.0762L1.18885 1.03862H0.514264C0.230413 1.03862 0 0.805966 0 0.518645C0 0.232657 0.230413 0 0.514264 0H1.55459C1.7732 0 1.96822 0.139994 2.0404 0.347985L2.96899 3.02387H15.4855C15.811 3.02387 16.0546 3.32519 15.9894 3.64718L15.1677 7.68968C15.1482 7.79498 15.0945 7.89163 15.0141 7.96567C14.9338 8.03972 14.8311 8.08734 14.7207 8.10166L7.12127 8.95496C6.83881 8.98829 6.5848 8.7823 6.55288 8.49698C6.52234 8.21232 6.72499 7.955 7.00746 7.92367H7.00676Z" fill="white"/>
+								</svg>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</nav>
+	<nav class="wsc-header2020-navbar-main wsc-header2020-navbar-recoverit">
+		<div class="wsc-header2020-container">
+			<div class="wsc-header2020-navbar-content">
+				<div class="wsc-header2020-navbar-brand">
+					<a href="https://recoverit.wondershare.com/"><img src="https://neveragain.allstatics.com/2019/assets/icon/logo/recoverit-horizontal.svg" alt="Wondershare Recoverit"></a>
+				</div>
+				<button class="wsc-header2020-navbar-collapse-toggle" type="button" aria-expanded="false">
+					<svg class="wsc-header2020-navbar-collapse-toggle-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"></path>
+					</svg>
+					<svg class="wsc-header2020-navbar-collapse-toggle-icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M6 15L12 9L18 15" stroke="black" stroke-width="1.5"/>
+					</svg>
+				</button>
+				<div class="wsc-header2020-navbar-collapse">
+					<ul class="wsc-header2020-navbar-nav">
+						<li class="wsc-header2020-navbar-dropdown">
+							<nav class="wsc-header2020-navbarDropdown-toggle" aria-expanded="false">
+								<span>Products</span>
+								<div class="wsc-header2020-dropdown-icon">
+									<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"/>
+									</svg>
+								</div>
+							</nav>
+							<div class="wsc-header2020-navbarDropdown-menu">
+								<div class="wsc-header2020-container">
+									<div class="wsc-header2020-dropdownMenu-content">
+										<div class="wsc-header2020-dropdownMenu-body">
+											<div class="wsc-header2020-dropdownMenuBody-content">
+												<div class="wsc-header2020-dropdownMenuBody-item">
+													<div class="wsc-header2020-dropdownMenuBody-box">
+														<nav class="wsc-header2020-dropdownMenuBody-title" aria-expanded="false">
+															<h5>Data Recovery</h5>
+															<div class="wsc-header2020-dropdownMenuBodyTitle-icon">
+																<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+																	<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"></path>
+																</svg>
+															</div>
+														</nav>
+														<ul class="wsc-header2020-dropdownMenuBody-list">
+															<li>
+																<i class="wsc-header2020-dropdownMenuBodyList-icon">
+																	<img src="https://neveragain.allstatics.com/2019/assets/icon/brand/windows.svg" alt="Recoverit Windows Data Recovery Software">
+																</i>
+																<a href="https://recoverit.wondershare.com/data-recovery.html">Data Recovery For Windows</a>
+															</li>
+															<li>
+																<i class="wsc-header2020-dropdownMenuBodyList-icon">
+																	<img src="https://neveragain.allstatics.com/2019/assets/icon/brand/macos.svg" alt="Recoverit Mac Data Recovery Tool">
+																</i>
+																<a href="https://recoverit.wondershare.com/data-recovery-mac.html">Data Recovery For Mac</a>
+															</li>
+															<li>
+																<i class="wsc-header2020-dropdownMenuBodyList-icon">
+																	<img src="https://recoverit.wondershare.com/images/images2019/new_8.5/free.png" alt="Recoverit Free Data Recovery Software">
+																</i>
+																<a href="https://recoverit.wondershare.com/data-recovery-free.html">Data Recovery For Free</a>
+															</li>
+														</ul>
+													</div>
+												</div>
+												<div class="wsc-header2020-dropdownMenuBody-hr-vertical"></div>
+												<div class="wsc-header2020-dropdownMenuBody-item">
+													<div class="wsc-header2020-dropdownMenuBody-box">
+														<nav class="wsc-header2020-dropdownMenuBody-title" aria-expanded="false">
+															<h5>Photo Recovery</h5>
+															<div class="wsc-header2020-dropdownMenuBodyTitle-icon">
+																<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+																	<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"></path>
+																</svg>
+															</div>
+														</nav>
+														<ul class="wsc-header2020-dropdownMenuBody-list">
+															<li>
+																<i class="wsc-header2020-dropdownMenuBodyList-icon">
+																	<img src="https://recoverit.wondershare.com/images/images2019/new_8.5/photo-repair.png" alt="Photo Recovery Software">
+																</i>
+																<a href="https://recoverit.wondershare.com/photo-recovery.html">Photo/Video/Audio Recovery</a>
+															</li>
+														</ul>
+													</div>
+												</div>
+												<div class="wsc-header2020-dropdownMenuBody-hr-vertical"></div>
+												<div class="wsc-header2020-dropdownMenuBody-item">
+													<div class="wsc-header2020-dropdownMenuBody-box">
+														<nav class="wsc-header2020-dropdownMenuBody-title" aria-expanded="false">
+															<h5>Video Repair</h5>
+															<div class="wsc-header2020-dropdownMenuBodyTitle-icon">
+																<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+																	<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"></path>
+																</svg>
+															</div>
+														</nav>
+														<ul class="wsc-header2020-dropdownMenuBody-list">
+															<li>
+																<i class="wsc-header2020-dropdownMenuBodyList-icon">
+																	<img src="https://recoverit.wondershare.com/images/images2019/new_8.5/video-repair.png" alt="Video Repair Tool">
+																</i>
+																<a href="https://recoverit.wondershare.com/video-repair-tool.html">Video Repair Tool</a>
+															</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-link" href="https://recoverit.wondershare.com/guide.html">Guide</a>
+						</li>
+						<li class="wsc-header2020-navbar-dropdown">
+							<nav class="wsc-header2020-navbarDropdown-toggle" aria-expanded="false">
+								<span>Resources</span>
+								<div class="wsc-header2020-dropdown-icon">
+									<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"/>
+									</svg>
+								</div>
+							</nav>
+							<div class="wsc-header2020-navbarDropdown-menu">
+								<div class="wsc-header2020-container">
+									<div class="wsc-header2020-dropdownMenu-content">
+										<div class="wsc-header2020-dropdownMenu-body">
+											<div class="wsc-header2020-dropdownMenuBody-content">
+												<div class="wsc-header2020-dropdownMenuBody-item">
+													<div class="wsc-header2020-dropdownMenuBody-box">
+														<nav class="wsc-header2020-dropdownMenuBody-title" aria-expanded="false">
+															<h5>Tackle File Problems</h5>
+															<div class="wsc-header2020-dropdownMenuBodyTitle-icon">
+																<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+																	<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"></path>
+																</svg>
+															</div>
+														</nav>
+														<ul class="wsc-header2020-dropdownMenuBody-list">
+															<li>
+																<a href="https://recoverit.wondershare.com/file-recovery-solutions/">Office Document Solutions </a>
+															</li>
+															<li>
+																<a href="https://recoverit.wondershare.com/photo-recovery/">Photo/Video/Audio/Camera Solutions</a>
+															</li>
+															<li>
+																<a href="https://recoverit.wondershare.com/email-solutions/">Email-Related Solutions</a>
+															</li>
+														</ul>
+													</div>
+												</div>
+												<div class="wsc-header2020-dropdownMenuBody-hr-vertical"></div>
+												<div class="wsc-header2020-dropdownMenuBody-item">
+													<div class="wsc-header2020-dropdownMenuBody-box">
+														<nav class="wsc-header2020-dropdownMenuBody-title" aria-expanded="false">
+															<h5>Tackle Computer Problems</h5>
+															<div class="wsc-header2020-dropdownMenuBodyTitle-icon">
+																<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+																	<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"></path>
+																</svg>
+															</div>
+														</nav>
+														<ul class="wsc-header2020-dropdownMenuBody-list">
+															<li>
+																<a href="https://recoverit.wondershare.com/computer-data-recovery/">Windows Computer Solutions</a>
+															</li>
+															<li>
+																<a href="https://recoverit.wondershare.com/mac-solutions/">Mac Computer Solutions</a>
+															</li>
+															<li>
+																<a href="https://recoverit.wondershare.com/partition-solutions/">Computer Partition Solutions</a>
+															</li>
+														</ul>
+													</div>
+												</div>
+												<div class="wsc-header2020-dropdownMenuBody-hr-vertical"></div>
+												<div class="wsc-header2020-dropdownMenuBody-item">
+													<div class="wsc-header2020-dropdownMenuBody-box">
+														<nav class="wsc-header2020-dropdownMenuBody-title" aria-expanded="false">
+															<h5>Tackle Device Problems</h5>
+															<div class="wsc-header2020-dropdownMenuBodyTitle-icon">
+																<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+																	<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"></path>
+																</svg>
+															</div>
+														</nav>
+														<ul class="wsc-header2020-dropdownMenuBody-list">
+															<li>
+																<a href="https://recoverit.wondershare.com/sd-card-solutions/">SD Card Solutions</a>
+															</li>
+															<li>
+																<a href="https://recoverit.wondershare.com/usb-recovery/">USB Drive Solutions</a>
+															</li>
+															<li>
+																<a href="https://recoverit.wondershare.com/hard-drive-solutions/">Hard Drive Solutions</a>
+															</li>
+													</ul>
+													</div>
+                        </div>
+                        <div class="wsc-header2020-dropdownMenuBody-hr-vertical"></div>
+                        <div class="wsc-header2020-dropdownMenuBody-item">
+													<div class="wsc-header2020-dropdownMenuBody-box">
+														<nav class="wsc-header2020-dropdownMenuBody-title" aria-expanded="false">
+															<h5>Get Bonus Information</h5>
+															<div class="wsc-header2020-dropdownMenuBodyTitle-icon">
+																<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+																	<path d="M6 9L12 15L18 9" stroke="black" stroke-width="1.5"></path>
+																</svg>
+															</div>
+														</nav>
+														<ul class="wsc-header2020-dropdownMenuBody-list">
+															<li>
+																<a href="https://recoverit.wondershare.com/free-recovery-solutions/">Free Recovery Solutions</a>
+															</li>
+															<li>
+																<a href="https://recoverit.wondershare.com/phone-solution/">Mobile Phone Solutions</a>
+															</li>
+															<li>
+																<a href="https://recoverit.wondershare.com/data-backup/">Data Backup Solutions</a>
+															</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+                  </div>
+                  <div class="wsc-header2020-dropdown-learnMore">
+                    <a href="https://recoverit.wondershare.com/resource/"><button>FIND MORE SOLUTIONS</button></a>
+                  </div>
+								</div>
+							</div>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-link" href="https://recoverit.wondershare.com/authors.html">Experts</a>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-linkBtn if_btnWin" href="https://ssl-download.wondershare.com/recoverit_full4134.exe" >Download Now</a>
+							<a class="wsc-header2020-navbar-linkBtn if_btnMac" href="http://ssl-download.wondershare.com/recoverit_full4138.zip" style="display:none">Download Now</a>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-linkBtn-outline if_btnWin" href="https://recoverit.wondershare.com/buy/store.html">Buy Now</a>
+							<a class="wsc-header2020-navbar-linkBtn-outline if_btnMac" href="https://recoverit.wondershare.com/buy/store-mac.html" style="display:none">Buy Now</a>
+						</li>
+						<li class="wsc-header2020-navbar-item">
+							<a class="wsc-header2020-navbar-link" href="https://recoverit.wondershare.com/search.html">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="20" height="20" fill="none" stroke="currentcolor" stroke-linecap="butt" stroke-linejoin="bevel" stroke-width="2">
+								    <circle cx="14" cy="14" r="12"></circle>
+								    <path d="M23 23 L30 30"></path>
+								</svg>
+							</a>
+						</li>
+					</ul>
+				</div>	
+			</div>
+		</div>
+	</nav>
+</header>
+  <!-- Hotjar Tracking Code for recoverit.wondershare.com -->
+  <script>
+    (function (h, o, t, j, a, r) {
+      h.hj = h.hj || function () {
+          (h.hj.q = h.hj.q || []).push(arguments)
+        };
+      h._hjSettings = {hjid: 1021223, hjsv: 6};
+      a = o.getElementsByTagName('head')[0];
+      r = o.createElement('script');
+      r.async = 1;
+      r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+  </script>
+
+<script>
+  'user strict';
+  //font
+  WebFontConfig = {google: {families: ['Muli:300,400,800']}};
+  (function (d) {
+    var wf = d.createElement('script'), s = d.scripts[0];
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+
+    wf.async = true;
+    s.parentNode.insertBefore(wf, s);
+  })(document);
+</script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+  var isAndroid = navigator.userAgent.toLowerCase().match(/android/i) == "android";
+  var isIphone = navigator.userAgent.toLowerCase().match(/iphone os/i) == "iphone os";
+  var isIpad = navigator.userAgent.toLowerCase().match(/ipad/i) == "ipad";
+  var isWinPhone = navigator.userAgent.toLowerCase().match(/windows phone/i) == "windows phone";
+  var isMac = (navigator.platform == "Mac68K") || (navigator.platform == "MacPPC") || (navigator.platform == "Macintosh") || (navigator.platform == "MacIntel");
+
+  $(function(){
+      if(isMac){
+          $('.if_btnMac').show();
+          $('.if_btnWin').hide();
+          $(".if_gotoWin").removeClass("curr");
+          $(".if_gotoMac").addClass("curr");
+      }else{
+          $('.if_btnMac').hide();
+          $('.if_btnWin').show();
+          $(".if_gotoWin").addClass("curr");
+          $(".if_gotoMac").removeClass("curr");
+      }
+      $(".if_gotoWin").click(function(){
+          $('.if_btnMac').hide();
+          $('.if_btnWin').show();
+          $('.if_gotoWin').addClass('curr');
+          $('.if_gotoMac').removeClass('curr');
+      });
+      $(".if_gotoMac").click(function(){
+          $('.if_btnMac').show();
+          $('.if_btnWin').hide();
+          $('.if_gotoMac').addClass('curr');
+          $('.if_gotoWin').removeClass('curr');
+      });
+      $(".top_close_bg .closeBtn").click(function(){
+          $(this).parents(".top_close_bg").hide();
+      });
+      $(".shipanddownload").click(function(){
+          $(this).parent().parent().fadeOut(400,function(){
+              $(".tc_bg").fadeOut(200,function(){$(".tc_bg").remove();});
+          });
+      });
+
+  });
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '830458877395930');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=830458877395930&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<main id="wsc-main" class="wsc-main p-0 font-size-normal">
+
+    <div class="404-content py-5" style="background: #f5f7f9;">
+        <div class="container py-3">
+            <div class="row">
+                <div class="col-md-6 bg-white pr-lg-5">
+                    <div class="p-4 pr-lg-5">
+                        <p class="display-4 font-weight-medium text-secondary pt-3">Oops! Page not found</p>
+                        <div class="pt-3">
+                            <p class="font-size-large">What can you do:</p>
+                            <ul style="list-style: disc;padding-left: 20px;">
+                                <li> Check for a typo in your URL (ex. recoverit.wondershare.com can  easily turn into recover.wondershare.com or recovery.wondershare.com)</li>
+                                <li> Go back to the previous page: <a href="javascript:;" onclick="javascript:history.go(-1);" class="text-secondary">Previous Page</a></li>
+                                <li> Go to the Home Page: <a href="https://recoverit.wondershare.com/" class="text-secondary">Home Page</a></li>
+                                <li> Contact us about the problem: <a href="https://recoverit.wondershare.com/contact-us.html" class="text-secondary">Contact Us</a></li>
+                                <li> Try a search in the box below:</li>
+                            </ul>
+                        </div>
+                        <div class="input-content">
+                            <form action="/search.html" id="search_form">
+                                <input type="hidden" name="cx" id="google_search_ex" value="">
+                                <input type="hidden" name="cof" value="FORID:10">
+                                <input type="hidden" name="ie" value="UTF-8">
+                                <input type="text" name="q" placeholder="Type your question here" class="px-4">
+                                <a onclick="document:search_form.submit()" href="javascript:;" class="btn btn-md bg-secondary m-0" style="border-radius: 0"><img src="https://recoverit.wondershare.com/images/images2019/404/search.svg" alt="404 page"/></a>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-6 px-0">
+                    <div class="">
+                        <img alt="" src="https://recoverit.wondershare.com/images/images2019/404/404-right.png" class="img-fluid"/>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</main>
+<footer class="wsc-footer2020">
+	<div class="wsc-footer2020-top wsc-footer202004-top">
+		<div class="wsc-footer2020-container">
+			<div class="wsc-footer2020-top-content">
+				<div class="wsc-footer2020-nav">
+					<a href="/"><img class="wsc-footer2020-nav-logo" src="https://neveragain.allstatics.com/2019/assets/icon/logo/wondershare-slogan-vertical-white.svg" alt=""></a>
+				</div>
+				<div class="wsc-footer2020-subnav">
+					<div class="wsc-footer2020-subnav-content">
+						<div class="wsc-footer2020-dropdown">
+							<nav class="wsc-footer2020-dropdown-toggle" aria-expanded="false">
+								<h5 class="wsc-footer2020-dropdown-title">About</h5>
+								<div class="wsc-footer2020-dropdown-icon">
+									<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path d="M6 9L12 15L18 9" stroke="white" stroke-width="1.5"/>
+									</svg>
+								</div>
+							</nav>
+							<div class="wsc-footer2020-dropdown-menu">
+								<ul>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://www.wondershare.com/company/whoweare/">Who we are</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://www.wondershare.com/company/howweoperate/">How we operate</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://www.wondershare.com/company/foundersspeech/">Founder’s speech</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://www.wondershare.com/company/ouroffices/">Our offices</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="wsc-footer2020-dropdown">
+							<nav class="wsc-footer2020-dropdown-toggle" aria-expanded="false">
+								<h5 class="wsc-footer2020-dropdown-title">Contact</h5>
+								<div class="wsc-footer2020-dropdown-icon">
+									<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path d="M6 9L12 15L18 9" stroke="white" stroke-width="1.5"/>
+									</svg>
+								</div>
+							</nav>
+							<div class="wsc-footer2020-dropdown-menu">
+								<ul>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://www.wondershare.com/business">Business</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://www.wondershare.com/contact.html">Get in touch</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://www.wondershare.com/careers/workwithus/">Careers</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="wsc-footer2020-dropdown">
+							<nav class="wsc-footer2020-dropdown-toggle" aria-expanded="false">
+								<h5 class="wsc-footer2020-dropdown-title">Group member</h5>
+								<div class="wsc-footer2020-dropdown-icon">
+									<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path d="M6 9L12 15L18 9" stroke="white" stroke-width="1.5"/>
+									</svg>
+								</div>
+							</nav>
+							<div class="wsc-footer2020-dropdown-menu">
+								<ul>
+									<li class="wsc-footer2020-subnav-item">
+										<a class="wsc-footer2020-subnav-link" href="https://www.edrawsoft.com/">
+											<img class="wsc-footer2020-subnavLink-logo" src="https://neveragain.allstatics.com/2019/assets/icon/logo/edraw-horizontal-white.svg" alt="">
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="wsc-footer2020-dropdown">
+							<nav class="wsc-footer2020-dropdown-toggle" aria-expanded="false">
+								<h5 class="wsc-footer2020-dropdown-title">Hero products</h5>
+								<div class="wsc-footer2020-dropdown-icon">
+									<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path d="M6 9L12 15L18 9" stroke="white" stroke-width="1.5"/>
+									</svg>
+								</div>
+							</nav>
+							<div class="wsc-footer2020-dropdown-menu">
+								<ul>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://filmora.wondershare.com/">Filmora</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://videoconverter.wondershare.com/">UniConverter</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://recoverit.wondershare.com/">Recoverit</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://drfone.wondershare.com/">Dr.Fone</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://pdf.wondershare.com/">PDFelement</a></li>
+									<li class="wsc-footer2020-subnav-item"><a class="wsc-footer2020-subnav-link" href="https://famisafe.wondershare.com/">FamiSafe</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="wsc-footer2020-dropdown">
+							<nav class="wsc-footer2020-dropdown-toggle" aria-expanded="false">
+								<h5 class="wsc-footer2020-dropdown-title">Follow us</h5>
+							</nav>
+							<div class="wsc-footer2020-dropdown-menu">
+								<ul>
+									<li class="wsc-footer2020-subnav-item">
+										<a class="wsc-footer2020-subnav-iconlink" href="https://www.facebook.com/wondershare/">
+											<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<path fill-rule="evenodd" clip-rule="evenodd" d="M13 1C6.92487 1 2 5.92487 2 12C2 17.4558 5.97189 21.9839 11.1818 22.8504L11.1818 15H9V12H11.1818L11.1818 10C11.1818 8.93913 11.5649 7.92172 12.2469 7.17157C12.9288 6.42143 13.8538 6 14.8182 6H17V9.2H14.8182C14.6253 9.2 14.4403 9.28429 14.3039 9.43431C14.1675 9.58434 14.0909 9.78783 14.0909 10L14.0909 12H17L16.2727 15H14.0909L14.0909 22.9466C19.6539 22.3989 24 17.707 24 12C24 5.92487 19.0751 1 13 1Z" fill="white"/>
+											</svg>
+										</a>
+										<a class="wsc-footer2020-subnav-iconlink" href="https://www.instagram.com/wondershare/">
+											<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<path fill-rule="evenodd" clip-rule="evenodd" d="M2 7C2 4.23858 4.23858 2 7 2H17C19.7614 2 22 4.23858 22 7V17C22 19.7614 19.7614 22 17 22H7C4.23858 22 2 19.7614 2 17V7ZM12.4833 8.98924C11.8591 8.89668 11.2217 9.0033 10.6616 9.29392C10.1015 9.58455 9.64727 10.0444 9.36357 10.608C9.07988 11.1717 8.98113 11.8104 9.08138 12.4334C9.18163 13.0564 9.47577 13.6319 9.92196 14.0781C10.3681 14.5243 10.9437 14.8184 11.5667 14.9187C12.1897 15.0189 12.8284 14.9202 13.392 14.6365C13.9557 14.3528 14.4155 13.8986 14.7061 13.3385C14.9968 12.7784 15.1034 12.1409 15.0108 11.5167C14.9164 10.88 14.6197 10.2906 14.1646 9.83547C13.7095 9.38034 13.12 9.08365 12.4833 8.98924ZM9.74043 7.51868C10.6739 7.0343 11.7364 6.85661 12.7767 7.01087C13.8378 7.16823 14.8203 7.6627 15.5788 8.42126C16.3374 9.17981 16.8318 10.1622 16.9892 11.2234C17.1435 12.2637 16.9658 13.3261 16.4814 14.2596C15.997 15.1931 15.2306 15.9501 14.2912 16.423C13.3518 16.8958 12.2873 17.0604 11.2489 16.8933C10.2106 16.7262 9.2514 16.236 8.50774 15.4923C7.76409 14.7487 7.27386 13.7895 7.10678 12.7511C6.9397 11.7128 7.10428 10.6482 7.5771 9.70884C8.04993 8.76944 8.80693 8.00305 9.74043 7.51868ZM17.5 5.5C16.9477 5.5 16.5 5.94772 16.5 6.5C16.5 7.05228 16.9477 7.5 17.5 7.5H17.51C18.0623 7.5 18.51 7.05228 18.51 6.5C18.51 5.94772 18.0623 5.5 17.51 5.5H17.5Z" fill="white"/>
+											</svg>
+										</a>
+										<a class="wsc-footer2020-subnav-iconlink" href="https://twitter.com/wondershare">
+											<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<path d="M23 3.00029C22.0424 3.67577 20.9821 4.1924 19.86 4.53029C19.2577 3.8378 18.4573 3.34698 17.567 3.12422C16.6767 2.90145 15.7395 2.95749 14.8821 3.28474C14.0247 3.612 13.2884 4.19469 12.773 4.95401C12.2575 5.71332 11.9877 6.61263 12 7.53029V8.53029C10.2426 8.57586 8.50127 8.1861 6.93101 7.39574C5.36074 6.60537 4.01032 5.43893 3 4.00029C3 4.00029 -1 13.0003 8 17.0003C5.94053 18.3983 3.48716 19.0992 1 19.0003C10 24.0003 21 19.0003 21 7.50029C20.9991 7.22174 20.9723 6.94388 20.92 6.67029C21.9406 5.66378 22.6608 4.393 23 3.00029Z" fill="white"/>
+											</svg>
+										</a>
+										<a class="wsc-footer2020-subnav-iconlink" href="https://www.youtube.com/user/Wondershare">
+											<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<path fill-rule="evenodd" clip-rule="evenodd" d="M21.8386 5.15941C22.1792 5.51057 22.4212 5.94541 22.54 6.42C22.8572 8.1787 23.0112 9.96295 23 11.75C23.0063 13.5103 22.8523 15.2676 22.54 17C22.4212 17.4746 22.1792 17.9094 21.8386 18.2606C21.498 18.6118 21.0707 18.8668 20.6 19C18.88 19.46 12 19.46 12 19.46C12 19.46 5.11996 19.46 3.39996 19C2.93878 18.8738 2.51794 18.6308 2.17811 18.2945C1.83827 17.9581 1.59092 17.5398 1.45996 17.08C1.14273 15.3213 0.988741 13.537 0.999961 11.75C0.991197 9.97631 1.14518 8.20556 1.45996 6.46C1.57875 5.98541 1.82068 5.55057 2.16131 5.19941C2.50194 4.84824 2.92921 4.59318 3.39996 4.46C5.11996 4 12 4 12 4C12 4 18.88 4 20.6 4.42C21.0707 4.55318 21.498 4.80824 21.8386 5.15941ZM15.5 11.75L9.74997 15.02V8.47998L15.5 11.75Z" fill="white"/>
+											</svg>
+										</a>
+										<a class="wsc-footer2020-subnav-iconlink" href="https://www.wondershare.com/connect/">
+											<svg width="16" height="4" viewBox="0 0 16 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<circle opacity="0.8" cx="2" cy="2" r="2" fill="white"/>
+												<circle opacity="0.8" cx="8" cy="2" r="2" fill="white"/>
+												<circle opacity="0.8" cx="14" cy="2" r="2" fill="white"/>
+											</svg>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="wsc-footer2020-bottom wsc-footer202004-bottom">
+		<div class="wsc-footer2020-container">
+			<div class="wsc-footer2020-bottom-content">
+				<div class="wsc-footer2020-copyright">
+					<div class="wsc-footer2020-copyright-top">
+						<a class="wsc-footer2020-copyright-link" href="https://www.wondershare.com/company/terms_conditions.html">Terms and Conditions</a>
+						<a class="wsc-footer2020-copyright-link" href="https://www.wondershare.com/privacy.html">Privacy</a>
+						<a class="wsc-footer2020-copyright-link" href="https://www.wondershare.com/cookis-policy.html">Cookies</a>
+						<a class="wsc-footer2020-copyright-link" href="https://www.wondershare.com/company/end-user-license-agreement.html">License Agreement</a>
+						<a class="wsc-footer2020-copyright-link" href="http://support.wondershare.com/how-tos/wondershare-refund-policy.html">Refund Policy</a>
+						<a class="wsc-footer2020-copyright-link" href="https://www.wondershare.com/company/affliate-policy.html">Uninstall</a>
+					</div>
+					<div class="wsc-footer2020-copyright-bottom">
+						<p>Copyright © 2020 Wondershare. All rights reserved. The order process, tax issue and invoicing to end user is conducted by Wondershare Technology Co., Ltd, which is the subsidiary of Wondershare group.</p>
+					</div>
+				</div>
+				<div class="wsc-footer2020-mobile-language">
+					<nav class="wsc-footer2020-mobile-language-toggle" aria-expanded="false">
+						<span>Language</span>
+						<div class="wsc-footer2020-mobile-language-icon">
+							<svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M5 5L0.669873 0.499999L9.33013 0.5L5 5Z" fill="#C4C4C4"/>
+							</svg>
+						</div>
+					</nav>
+					<div class="wsc-footer2020-mobile-language-menu">
+						<a class="wsc-footer2020-mobile-language-link active" href="https://www.wondershare.com">English</a>
+						<a class="wsc-footer2020-mobile-language-link" href="https://www.wondershare.com/de/">Deutsch</a>
+						<a class="wsc-footer2020-mobile-language-link" href="https://www.wondershare.com/fr/">Français</a>
+						<a class="wsc-footer2020-mobile-language-link" href="https://www.wondershare.com/pt-br/">Português</a>
+						<a class="wsc-footer2020-mobile-language-link" href="https://www.wondershare.com/es/">Español</a>
+						<a class="wsc-footer2020-mobile-language-link" href="https://www.wondershare.com/it/">Italiano</a>
+						<a class="wsc-footer2020-mobile-language-link" href="https://www.wondershare.jp/">日本語</a>
+						<a class="wsc-footer2020-mobile-language-link" href="https://www.wondershare.cn">简体中文</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+</footer>
+<style>
+  .wsc-gotop {
+    position: fixed;
+    right: .75rem;
+    bottom: .75rem;
+    z-index: -2;
+    border-width: .125rem !important;
+    opacity: 0; }
+    .wsc-gotop.active {
+      z-index: 9;
+      opacity: .8; }
+      .wsc-gotop.active:hover {
+        opacity: 1; }
+    .wsc-gotop .wsc-icon {
+      width: 2.25rem;
+      height: 2.25rem;
+      padding: .5rem; }
+  .wsc-gotop svg{vertical-align:top} </style>
+<aside class="wsc-plugin" id="wsc-plugin-gotop" data-plugin="gotop">
+  <div class="wsc-gotop with-hand transition bg-primary border border-white text-center">
+    <i class="wsc-icon text-white wsc-icon-loaded" data-icon="extra-arrow-up"><svg class="wsc-svg-extra-arrow-up" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 448 512"><path d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"></path></svg></i>
+  </div>
+</aside>
+<script>
+    function throttle(fn,delay){
+      var run = true
+      return function(){
+        if(!run) return
+        run = false
+        setTimeout(function(){
+          fn.apply()
+          run = true
+        },delay || 500)
+      }
+    }
+    $(window).on('scroll', throttle(function () {
+      $('.wsc-gotop').toggleClass('active', $(document).scrollTop() > 500)
+    }))
+    $('.wsc-gotop').on('click', function (e) {
+      e.preventDefault()
+      e.stopPropagation()
+      $('html, body').animate({ scrollTop: 0 })
+    })
+</script>
+<script src="https://neveragain.allstatics.com/2019/assets/script/wsc-header-footer-2020.js"></script>
+<!-- GDPR -->
+<script src="https://images.wondershare.com/script/gdpr_ws.js"></script>
+<script>
+  $(document).ready(function(){
+      gdprAgree.init({
+          text: 'We have updated our <a href="https://www.wondershare.com/privacy.html" target="_blank" rel="nofollow">Privacy Policy</a> and <a href="https://www.wondershare.com/cookis-policy.html" target="_blank" rel="nofollow">Cookies Policy</a>, by clicking any link on our site you are giving your consent to the terms.',
+          btn: '<a href="javascript:;" class="gdprAgree_btn" onclick="gdprAgree.agree()">Agree</a>'
+      })
+  })
+</script>
+<!-- GDPR END-->
+<script type="text/javascript" src="https://images.wondershare.com/scripts/affiliate.js" defer></script>
+<script type="text/javascript" src="https://recoverit.wondershare.com/script/new_mobile_download.js" defer></script>
+<script type="text/javascript" src="https://recoverit.wondershare.com/script/onclickDownload.js" async></script>
+<script type="text/javascript" src="https://recoverit.wondershare.com/script/affiliate.js" async></script>
+<script type="text/javascript" src="https://recoverit.wondershare.com/script/download_stat.js" async></script>
+<script type="text/javascript">
+  var google_tag_params = {
+      ecomm_prodid: 'REPLACE_WITH_VALUE',
+      ecomm_pagetype: 'REPLACE_WITH_VALUE',
+      ecomm_totalvalue: 'REPLACE_WITH_VALUE',
+  };
+</script>
+<div style="height:0; overflow:hidden;">
+  <script type="text/javascript">
+      /* <![CDATA[ */
+      var google_conversion_id = 1004581587;
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      /* ]]> */
+  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js" async></script>
+</div>
+<noscript>
+  <img height="0" width="0" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004581587/?value=0&amp;guid=ON&amp;script=0"/>
+</noscript>
+<!-- B-RMKT Code -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5037830"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})
+(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+<noscript>
+  <img src="//bat.bing.com/action/0?ti=5037830&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" />
+</noscript></body>
+</html>                                                                                                                                                                                                                                                                                                     fa-speaker-deck:before{content:"\f83c"}.fa-spell-check:before{content:"\f891"}.fa-spider:before{content:"\f717"}.fa-spinner:before{content:"\f110"}.fa-splotch:before{content:"\f5bc"}.fa-spotify:before{content:"\f1bc"}.fa-spray-can:before{content:"\f5bd"}.fa-square:before{content:"\f0c8"}.fa-square-full:before{content:"\f45c"}.fa-square-root-alt:before{content:"\f698"}.fa-squarespace:before{content:"\f5be"}.fa-stack-exchange:before{content:"\f18d"}.fa-stack-overflow:before{content:"\f16c"}.fa-stackpath:before{content:"\f842"}.fa-stamp:before{content:"\f5bf"}.fa-star:before{content:"\f005"}.fa-star-and-crescent:before{content:"\f699"}.fa-star-half:before{content:"\f089"}.fa-star-half-alt:before{content:"\f5c0"}.fa-star-of-david:before{content:"\f69a"}.fa-star-of-life:before{content:"\f621"}.fa-staylinked:before{content:"\f3f5"}.fa-steam:before{content:"\f1b6"}.fa-steam-square:before{content:"\f1b7"}.fa-steam-symbol:before{content:"\f3f6"}.fa-step-backward:before{content:"\f048"}.fa-step-forward:before{content:"\f051"}.fa-stethoscope:before{content:"\f0f1"}.fa-sticker-mule:before{content:"\f3f7"}.fa-sticky-note:before{content:"\f249"}.fa-stop:before{content:"\f04d"}.fa-stop-circle:before{content:"\f28d"}.fa-stopwatch:before{content:"\f2f2"}.fa-store:before{content:"\f54e"}.fa-store-alt:before{content:"\f54f"}.fa-strava:before{content:"\f428"}.fa-stream:before{content:"\f550"}.fa-street-view:before{content:"\f21d"}.fa-strikethrough:before{content:"\f0cc"}.fa-stripe:before{content:"\f429"}.fa-stripe-s:before{content:"\f42a"}.fa-stroopwafel:before{content:"\f551"}.fa-studiovinari:before{content:"\f3f8"}.fa-stumbleupon:before{content:"\f1a4"}.fa-stumbleupon-circle:before{content:"\f1a3"}.fa-subscript:before{content:"\f12c"}.fa-subway:before{content:"\f239"}.fa-suitcase:before{content:"\f0f2"}.fa-suitcase-rolling:before{content:"\f5c1"}.fa-sun:before{content:"\f185"}.fa-superpowers:before{content:"\f2dd"}.fa-superscript:before{content:"\f12b"}.fa-supple:before{content:"\f3f9"}.fa-surprise:before{content:"\f5c2"}.fa-suse:before{content:"\f7d6"}.fa-swatchbook:before{content:"\f5c3"}.fa-swift:before{content:"\f8e1"}.fa-swimmer:before{content:"\f5c4"}.fa-swimming-pool:before{content:"\f5c5"}.fa-symfony:before{content:"\f83d"}.fa-synagogue:before{content:"\f69b"}.fa-sync:before{content:"\f021"}.fa-sync-alt:before{content:"\f2f1"}.fa-syringe:before{content:"\f48e"}.fa-table:before{content:"\f0ce"}.fa-table-tennis:before{content:"\f45d"}.fa-tablet:before{content:"\f10a"}.fa-tablet-alt:before{content:"\f3fa"}.fa-tablets:before{content:"\f490"}.fa-tachometer-alt:before{content:"\f3fd"}.fa-tag:before{content:"\f02b"}.fa-tags:before{content:"\f02c"}.fa-tape:before{content:"\f4db"}.fa-tasks:before{content:"\f0ae"}.fa-taxi:before{content:"\f1ba"}.fa-teamspeak:before{content:"\f4f9"}.fa-teeth:before{content:"\f62e"}.fa-teeth-open:before{content:"\f62f"}.fa-telegram:before{content:"\f2c6"}.fa-telegram-plane:before{content:"\f3fe"}.fa-temperature-high:before{content:"\f769"}.fa-temperature-low:before{content:"\f76b"}.fa-tencent-weibo:before{content:"\f1d5"}.fa-tenge:before{content:"\f7d7"}.fa-terminal:before{content:"\f120"}.fa-text-height:before{content:"\f034"}.fa-text-width:before{content:"\f035"}.fa-th:before{content:"\f00a"}.fa-th-large:before{content:"\f009"}.fa-th-list:before{content:"\f00b"}.fa-the-red-yeti:before{content:"\f69d"}.fa-theater-masks:before{content:"\f630"}.fa-themeco:before{content:"\f5c6"}.fa-themeisle:before{content:"\f2b2"}.fa-thermometer:before{content:"\f491"}.fa-thermometer-empty:before{content:"\f2cb"}.fa-thermometer-full:before{content:"\f2c7"}.fa-thermometer-half:before{content:"\f2c9"}.fa-thermometer-quarter:before{content:"\f2ca"}.fa-thermometer-three-quarters:before{content:"\f2c8"}.fa-think-peaks:before{content:"\f731"}.fa-thumbs-down:before{content:"\f165"}.fa-thumbs-up:before{content:"\f164"}.fa-thumbtack:before{content:"\f08d"}.fa-ticket-alt:before{content:"\f3ff"}.fa-times:before{content:"\f00d"}.fa-times-circle:before{content:"\f057"}.fa-tint:before{content:"\f043"}.fa-tint-slash:before{content:"\f5c7"}.fa-tired:before{content:"\f5c8"}.fa-toggle-off:before{content:"\f204"}.fa-toggle-on:before{content:"\f205"}.fa-toilet:before{content:"\f7d8"}.fa-toilet-paper:before{content:"\f71e"}.fa-toolbox:before{content:"\f552"}.fa-tools:before{content:"\f7d9"}.fa-tooth:before{content:"\f5c9"}.fa-torah:before{content:"\f6a0"}.fa-torii-gate:before{content:"\f6a1"}.fa-tractor:before{content:"\f722"}.fa-trade-federation:before{content:"\f513"}.fa-trademark:before{content:"\f25c"}.fa-traffic-light:before{content:"\f637"}.fa-trailer:before{content:"\f941"}.fa-train:before{content:"\f238"}.fa-tram:before{content:"\f7da"}.fa-transgender:before{content:"\f224"}.fa-transgender-alt:before{content:"\f225"}.fa-trash:before{content:"\f1f8"}.fa-trash-alt:before{content:"\f2ed"}.fa-trash-restore:before{content:"\f829"}.fa-trash-restore-alt:before{content:"\f82a"}.fa-tree:before{content:"\f1bb"}.fa-trello:before{content:"\f181"}.fa-tripadvisor:before{content:"\f262"}.fa-trophy:before{content:"\f091"}.fa-truck:before{content:"\f0d1"}.fa-truck-loading:before{content:"\f4de"}.fa-truck-monster:before{content:"\f63b"}.fa-truck-moving:before{content:"\f4df"}.fa-truck-pickup:before{content:"\f63c"}.fa-tshirt:before{content:"\f553"}.fa-tty:before{content:"\f1e4"}.fa-tumblr:before{content:"\f173"}.fa-tumblr-square:before{content:"\f174"}.fa-tv:before{content:"\f26c"}.fa-twitch:before{content:"\f1e8"}.fa-twitter:before{content:"\f099"}.fa-twitter-square:before{content:"\f081"}.fa-typo3:before{content:"\f42b"}.fa-uber:before{content:"\f402"}.fa-ubuntu:before{content:"\f7df"}.fa-uikit:before{content:"\f403"}.fa-umbraco:before{content:"\f8e8"}.fa-umbrella:before{content:"\f0e9"}.fa-umbrella-beach:before{content:"\f5ca"}.fa-underline:before{content:"\f0cd"}.fa-undo:before{content:"\f0e2"}.fa-undo-alt:before{content:"\f2ea"}.fa-uniregistry:before{content:"\f404"}.fa-unity:before{content:"\f949"}.fa-universal-access:before{content:"\f29a"}.fa-university:before{content:"\f19c"}.fa-unlink:before{content:"\f127"}.fa-unlock:before{content:"\f09c"}.fa-unlock-alt:before{content:"\f13e"}.fa-untappd:before{content:"\f405"}.fa-upload:before{content:"\f093"}.fa-ups:before{content:"\f7e0"}.fa-usb:before{content:"\f287"}.fa-user:before{content:"\f007"}.fa-user-alt:before{content:"\f406"}.fa-user-alt-slash:before{content:"\f4fa"}.fa-user-astronaut:before{content:"\f4fb"}.fa-user-check:before{content:"\f4fc"}.fa-user-circle:before{content:"\f2bd"}.fa-user-clock:before{content:"\f4fd"}.fa-user-cog:before{content:"\f4fe"}.fa-user-edit:before{content:"\f4ff"}.fa-user-friends:before{content:"\f500"}.fa-user-graduate:before{content:"\f501"}.fa-user-injured:before{content:"\f728"}.fa-user-lock:before{content:"\f502"}.fa-user-md:before{content:"\f0f0"}.fa-user-minus:before{content:"\f503"}.fa-user-ninja:before{content:"\f504"}.fa-user-nurse:before{content:"\f82f"}.fa-user-plus:before{content:"\f234"}.fa-user-secret:before{content:"\f21b"}.fa-user-shield:before{content:"\f505"}.fa-user-slash:before{content:"\f506"}.fa-user-tag:before{content:"\f507"}.fa-user-tie:before{content:"\f508"}.fa-user-times:before{content:"\f235"}.fa-users:before{content:"\f0c0"}.fa-users-cog:before{content:"\f509"}.fa-usps:before{content:"\f7e1"}.fa-ussunnah:before{content:"\f407"}.fa-utensil-spoon:before{content:"\f2e5"}.fa-utensils:before{content:"\f2e7"}.fa-vaadin:before{content:"\f408"}.fa-vector-square:before{content:"\f5cb"}.fa-venus:before{content:"\f221"}.fa-venus-double:before{content:"\f226"}.fa-venus-mars:before{content:"\f228"}.fa-viacoin:before{content:"\f237"}.fa-viadeo:before{content:"\f2a9"}.fa-viadeo-square:before{content:"\f2aa"}.fa-vial:before{content:"\f492"}.fa-vials:before{content:"\f493"}.fa-viber:before{content:"\f409"}.fa-video:before{content:"\f03d"}.fa-video-slash:before{content:"\f4e2"}.fa-vihara:before{content:"\f6a7"}.fa-vimeo:before{content:"\f40a"}.fa-vimeo-square:before{content:"\f194"}.fa-vimeo-v:before{content:"\f27d"}.fa-vine:before{content:"\f1ca"}.fa-vk:before{content:"\f189"}.fa-vnv:before{content:"\f40b"}.fa-voicemail:before{content:"\f897"}.fa-volleyball-ball:before{content:"\f45f"}.fa-volume-down:before{content:"\f027"}.fa-volume-mute:before{content:"\f6a9"}.fa-volume-off:before{content:"\f026"}.fa-volume-up:before{content:"\f028"}.fa-vote-yea:before{content:"\f772"}.fa-vr-cardboard:before{content:"\f729"}.fa-vuejs:before{content:"\f41f"}.fa-walking:before{content:"\f554"}.fa-wallet:before{content:"\f555"}.fa-warehouse:before{content:"\f494"}.fa-water:before{content:"\f773"}.fa-wave-square:before{content:"\f83e"}.fa-waze:before{content:"\f83f"}.fa-weebly:before{content:"\f5cc"}.fa-weibo:before{content:"\f18a"}.fa-weight:before{content:"\f496"}.fa-weight-hanging:before{content:"\f5cd"}.fa-weixin:before{content:"\f1d7"}.fa-whatsapp:before{content:"\f232"}.fa-whatsapp-square:before{content:"\f40c"}.fa-wheelchair:before{content:"\f193"}.fa-whmcs:before{content:"\f40d"}.fa-wifi:before{content:"\f1eb"}.fa-wikipedia-w:before{content:"\f266"}.fa-wind:before{content:"\f72e"}.fa-window-close:before{content:"\f410"}.fa-window-maximize:before{content:"\f2d0"}.fa-window-minimize:before{content:"\f2d1"}.fa-window-restore:before{content:"\f2d2"}.fa-windows:before{content:"\f17a"}.fa-wine-bottle:before{content:"\f72f"}.fa-wine-glass:before{content:"\f4e3"}.fa-wine-glass-alt:before{content:"\f5ce"}.fa-wix:before{content:"\f5cf"}.fa-wizards-of-the-coast:before{content:"\f730"}.fa-wolf-pack-battalion:before{content:"\f514"}.fa-won-sign:before{content:"\f159"}.fa-wordpress:before{content:"\f19a"}.fa-wordpress-simple:before{content:"\f411"}.fa-wpbeginner:before{content:"\f297"}.fa-wpexplorer:before{content:"\f2de"}.fa-wpforms:before{content:"\f298"}.fa-wpressr:before{content:"\f3e4"}.fa-wrench:before{content:"\f0ad"}.fa-x-ray:before{content:"\f497"}.fa-xbox:before{content:"\f412"}.fa-xing:before{content:"\f168"}.fa-xing-square:before{content:"\f169"}.fa-y-combinator:before{content:"\f23b"}.fa-yahoo:before{content:"\f19e"}.fa-yammer:before{content:"\f840"}.fa-yandex:before{content:"\f413"}.fa-yandex-international:before{content:"\f414"}.fa-yarn:before{content:"\f7e3"}.fa-yelp:before{content:"\f1e9"}.fa-yen-sign:before{content:"\f157"}.fa-yin-yang:before{content:"\f6ad"}.fa-yoast:before{content:"\f2b1"}.fa-youtube:before{content:"\f167"}.fa-youtube-square:before{content:"\f431"}.fa-zhihu:before{content:"\f63f"}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:normal;font-display:auto;src:url(../webfonts/fa-brands-400.eot);src:url(../webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(../webfonts/fa-brands-400.woff2) format("woff2"),url(../webfonts/fa-brands-400.woff) format("woff"),url(../webfonts/fa-brands-400.ttf) format("truetype"),url(../webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:"Font Awesome 5 Brands"}@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:400;font-display:auto;src:url(../webfonts/fa-regular-400.eot);src:url(../webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(../webfonts/fa-regular-400.woff2) format("woff2"),url(../webfonts/fa-regular-400.woff) format("woff"),url(../webfonts/fa-regular-400.ttf) format("truetype"),url(../webfonts/fa-regular-400.svg#fontawesome) format("svg")}.far{font-weight:400}@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;font-display:auto;src:url(../webfonts/fa-solid-900.eot);src:url(../webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(../webfonts/fa-solid-900.woff2) format("woff2"),url(../webfonts/fa-solid-900.woff) format("woff"),url(../webfonts/fa-solid-900.ttf) format("truetype"),url(../webfonts/fa-solid-900.svg#fontawesome) format("svg")}.fa,.far,.fas{font-family:"Font Awesome 5 Free"}.fa,.fas{font-weight:900}

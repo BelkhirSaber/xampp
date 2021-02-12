@@ -1,0 +1,33 @@
+body{
+    margin-top: 50px;
+}
+.content{
+    padding: 50px 0 80px;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+}
+.content h1{
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.6);
+    margin-bottom: 30px;
+}
+.content a{
+    text-decoration: none;
+    width: 400px;
+    display: block !important;
+    margin: 5px auto;
+    
+}
+
+/*Start Register*/
+.register{
+    margin-top: 100px;
+}
+/*End Register*/
+
+/* Start Confirm */
+.confText{
+    font-size: 30px;
+    font-weight: 600;
+}
+/*End Confirm */

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .content{
+            width: 400px;
+            margin: 50px auto;
+            padding: 30px;
+        }
+        .content button{
+            background-color: #F5F5F5;
+            font: normal 600 30px Arial;
+            padding: 10px 30px;
+            border-radius: 10px;
+            border: 1px solid #888;
+            text-transform: capitalize;
+            color: #24AB9E;
+            margin-right: 10px;
+        }
+        .content .show{
+            background-color: #FFF;
+            width: 90%;
+            height: 200px;
+            margin: 20px auto;
+            border-radius: 10px;
+            box-shadow:0px 0px 10px rgba(0, 0, 0, .1);
+            padding: 20px;
+            font-size: 21px;
+            font-weight: 400;
+            font-family: Arial;
+            text-transform: capitalize;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <button>get response</button>
+    </div>
+
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('button').on('click', function () {
+                $.ajax({
+                    // username: "",
+                    // password: "",
+                    // type: "post" // alias for method used in the last version oF jquery Less then V1.9,
+                    // dataType:"", //type oF the result returned
+                    // cache: false, //by deFault true caching the request in the browser or no
+                    // timeout: 3000, //delay BeFore running the request
+                    // async: true, //request asynchrounse by deFault true,iF value Is False the request Is synchron
+                    // contentType: "multipart/form-data",
+                    method: 'post',
+                    url: "login.php",
+                    data: {username:"saber", pass:"1234"},
+                    success:function(responseText, state, xhr){
+                        console.log(responseText);
+                        console.log(state);
+                        console.log(xhr);
+                    },
+                    error:function(xhr, state, error){
+                        console.log(xhr);
+                        console.log(state);
+                        console.log(error);
+                    },
+                    complete:function(xhr, state){
+                        console.log(xhr);
+                        console.log(state);
+                    }
+                });
+            });
+            
+        });
+    </script>
+</body>
+</html>

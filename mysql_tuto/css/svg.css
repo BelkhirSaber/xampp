@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.saber{
+	r:80;
+	cx:150;
+	cy:150; 
+	fill: #F0F;
+	stroke :#0F0;
+	stroke-width: 4 ;
+	opacity: .3;
+
+}
+.saber:hover{
+	stroke-width: 6;
+	opacity: 1;
+}
+.belkhir{
+	r:120;
+	cx:250;
+	cy:250; 
+	fill: #F0F;
+	stroke :#0F0;
+	stroke-width: 4 ;
+	opacity: .3;
+
+}
+.belkhir:hover{
+	stroke-width: 6;
+	opacity: 1;
+}

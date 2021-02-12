@@ -1,0 +1,50 @@
+body{margin-top: 50px}
+a{text-decoration: none}
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* Start Index */
+.index .content{
+    padding: 50px 0 80px;
+    border-radius: 10px;
+}
+.index .content h1{
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.6);
+    margin-bottom: 30px;
+}
+.index .content a{
+    width: 400px;
+    display: block !important;
+    margin: 5px auto;
+}
+/* End index */
+
+/*Start Register*/
+
+/*End Register*/
+
+/* Start Confirm */
+.confText{
+    font-size: 30px;
+    font-weight: 600;
+}
+/*End Confirm */
+
+/* Start Login */
+
+/* End index */
+
+
+
+/* Start Grouping */
+.login .content > div,
+.reset .content > div,
+.index .content > div,
+.register .content > div{font-size: 24px; margin-bottom: 20px;}
+
+/* End Grouping */

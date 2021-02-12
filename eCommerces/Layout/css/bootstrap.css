@@ -1,0 +1,1101 @@
+3 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:06:753  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:753 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:06:753  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:753 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:06:753  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:754  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:754  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:754  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:754  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:754  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:754  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:754  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:754  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:755  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:755  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:755  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:755  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:755  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:06:755  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:07:637  INFO: [xml] {14781} Find header in 0x21D6AD7C00
+05-18 22:17:07:637 DEBUG: [xml] {14781} Find footer in 0x21D6ADE306
+05-18 22:17:07:638  INFO: [xml] {14791} Find header in 0x21D6AECE00
+05-18 22:17:07:638 DEBUG: [xml] {14791} Find footer in 0x21D6AED9A3
+05-18 22:17:07:638  INFO: [xml] {14792} Find header in 0x21D6AEDA00
+05-18 22:17:07:638 DEBUG: [xml] {14792} Find footer in 0x21D6AEE7D3
+05-18 22:17:07:638  INFO: [xml] {14793} Find header in 0x21D6AEE800
+05-18 22:17:07:638  INFO: [xml] {14794} Find header in 0x21D6AEFC00
+05-18 22:17:07:638 DEBUG: [xml] {14793} Find footer in 0x21D6AEFCEB
+05-18 22:17:07:638  INFO: [xml] {14795} Find header in 0x21D6AF1200
+05-18 22:17:07:638 DEBUG: [xml] {14795} Find footer in 0x21D6AF124B
+05-18 22:17:07:639  INFO: [xml] {14796} Find header in 0x21D6AF2400
+05-18 22:17:07:639 DEBUG: [xml] {14796} Find footer in 0x21D6AF248F
+05-18 22:17:07:639  INFO: [xml] {14797} Find header in 0x21D6AF2800
+05-18 22:17:07:639 DEBUG: [xml] {14797} Find footer in 0x21D6AF282E
+05-18 22:17:07:639  INFO: [xml] {14798} Find header in 0x21D6AF2E00
+05-18 22:17:07:639 DEBUG: [xml] {14798} Find footer in 0x21D6AF2E37
+05-18 22:17:07:639  INFO: [xml] {14799} Find header in 0x21D6AF3400
+05-18 22:17:07:639 DEBUG: [xml] {14799} Find footer in 0x21D6AF3440
+05-18 22:17:07:639  INFO: [xml] {14800} Find header in 0x21D6AF3800
+05-18 22:17:07:639 DEBUG: [xml] {14800} Find footer in 0x21D6AF3862
+05-18 22:17:07:639  INFO: [xml] {14801} Find header in 0x21D6AF3C00
+05-18 22:17:07:639 DEBUG: [xml] {14801} Find footer in 0x21D6AF3FF7
+05-18 22:17:07:639  INFO: [xml] {14802} Find header in 0x21D6AF7E00
+05-18 22:17:07:639 DEBUG: [xml] {14802} Find footer in 0x21D6AF8C71
+05-18 22:17:08:156  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:156  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:156  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:156  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:156  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:156  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:157  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:157  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:196  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:197  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:197  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:322  INFO: [xml] {14803} Find header in 0x21D7DAC000
+05-18 22:17:08:322  INFO: [xml] {14803} Find footer in 0x21D7DAC2EA
+05-18 22:17:08:630  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:08:743 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:08:855  INFO: [xml] {14808} Find header in 0x21D8DE8000
+05-18 22:17:08:855  INFO: [xml] {14808} Find footer in 0x21D8DE8D8E
+05-18 22:17:08:858  INFO: [xml] {14818} Find header in 0x21D8DEA000
+05-18 22:17:08:858  INFO: [xml] {14818} Find footer in 0x21D8DEA734
+05-18 22:17:08:861  INFO: [xml] {14819} Find header in 0x21D8DFE000
+05-18 22:17:08:878  WARN: [xml] {14819} Didn't find footer before reaching maximum
+05-18 22:17:09:050  INFO: [xml] {14820} Find header in 0x21D9B3F000
+05-18 22:17:09:053 DEBUG: [xml] {14820} Cut off by {wmf}
+05-18 22:17:09:109  INFO: [xml] {14830} Find header in 0x21D9EEA000
+05-18 22:17:09:109  INFO: [xml] {14830} Find footer in 0x21D9EEA0D1
+05-18 22:17:09:204  INFO: [xml] {14841} Find header in 0x21DA3A1000
+05-18 22:17:09:204  INFO: [xml] {14841} Find footer in 0x21DA3A12E6
+05-18 22:17:09:226  WARN: [SaveFolderClusterToMap]: the Same keyValue(CFatFormat::SaveFolderClusterToMap)
+05-18 22:17:09:254  INFO: [xml] {14845} Find header in 0x21DA61A000
+05-18 22:17:09:254  INFO: [xml] {14845} Find footer in 0x21DA61A182
+05-18 22:17:09:266  INFO: [xml] {14850} Find header in 0x21DA722000
+05-18 22:17:09:266  INFO: [xml] {14850} Find footer in 0x21DA722376
+05-18 22:17:10:850  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:10:850  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:10:866  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:10:866  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:10:866  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:10:866  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:10:866  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:11:041  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:12:296  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:12:362 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:12:398  INFO: [xml] {14853} Find header in 0x21DC526000
+05-18 22:17:12:398 DEBUG: [xml] {14853} Cut off by {png}
+05-18 22:17:12:415  INFO: [xml] {14859} Find header in 0x21DC67B000
+05-18 22:17:12:415  INFO: [xml] {14859} Find footer in 0x21DC67B2E9
+05-18 22:17:12:421  INFO: [xml] {14862} Find header in 0x21DC6F8000
+05-18 22:17:12:421  INFO: [xml] {14862} Find footer in 0x21DC6F82C6
+05-18 22:17:12:421  INFO: [xml] {14864} Find header in 0x21DC6FA000
+05-18 22:17:12:421  INFO: [xml] {14864} Find footer in 0x21DC6FA2C6
+05-18 22:17:12:421  INFO: [xml] {14865} Find header in 0x21DC6FC000
+05-18 22:17:12:421  INFO: [xml] {14865} Find footer in 0x21DC6FC2C8
+05-18 22:17:12:421  INFO: [xml] {14866} Find header in 0x21DC6FE000
+05-18 22:17:12:421  INFO: [xml] {14866} Find footer in 0x21DC6FE2D6
+05-18 22:17:12:566  INFO: [xml] {14867} Find header in 0x21DCAF8000
+05-18 22:17:12:566  INFO: [xml] {14867} Find footer in 0x21DCAF832F
+05-18 22:17:12:587  INFO: [xml] {14871} Find header in 0x21DCBD0000
+05-18 22:17:12:587  INFO: [xml] {14871} Find footer in 0x21DCBD02C0
+05-18 22:17:12:609  INFO: [xml] {14873} Find header in 0x21DCD92000
+05-18 22:17:12:609  INFO: [xml] {14873} Find footer in 0x21DCD9363D
+05-18 22:17:13:106 DEBUG: [m2ts] {14875} Cut off by {m2ts} at 145451655680
+05-18 22:17:13:332  INFO: [xml] {14877} Find header in 0x21DDF44000
+05-18 22:17:13:334  INFO: [xml] {14877} Find footer in 0x21DDF442E6
+05-18 22:17:13:420  INFO: [xml] {14882} Find header in 0x21DE356000
+05-18 22:17:13:420  INFO: [xml] {14882} Find footer in 0x21DE356300
+05-18 22:17:13:771  INFO: [sqlite] {14681} Find header in 0x21DEBF4000
+05-18 22:17:13:855  INFO: [xml] {14886} Find header in 0x21DEE82000
+05-18 22:17:13:855  INFO: [xml] {14886} Find footer in 0x21DEE82289
+05-18 22:17:14:158 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:14:158  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:14:158 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:14:158 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:14:158 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:14:158 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:14:158 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:14:158 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:14:158 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:14:166  INFO: [xml] {14888} Find header in 0x21DF0E1000
+05-18 22:17:14:166  INFO: [xml] {14888} Find footer in 0x21DF0E1288
+05-18 22:17:14:510 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:14:728  INFO: [xml] {14890} Find header in 0x21DFA30000
+05-18 22:17:14:737  INFO: [xml] {14890} Find footer in 0x21DFA302E0
+05-18 22:17:14:737  INFO: [xml] {14903} Find header in 0x21DFA37000
+05-18 22:17:14:737  INFO: [xml] {14903} Find footer in 0x21DFA372DC
+05-18 22:17:14:895  INFO: [sqlite] {14887} Find header in 0x21DFC6C000
+05-18 22:17:15:309  INFO: [xml] {14904} Find header in 0x21E02D9000
+05-18 22:17:15:309  INFO: [xml] {14904} Find footer in 0x21E02D92CE
+05-18 22:17:15:456  INFO: [xml] {14917} Find header in 0x21E04AB000
+05-18 22:17:15:485  WARN: [xml] {14917} Didn't find footer before reaching maximum
+05-18 22:17:15:487  INFO: [xml] {14918} Find header in 0x21E05B8000
+05-18 22:17:15:487  INFO: [xml] {14918} Find footer in 0x21E05B8284
+05-18 22:17:15:552  INFO: [xml] {14919} Find header in 0x21E066A000
+05-18 22:17:15:552  INFO: [xml] {14919} Find footer in 0x21E066A2F4
+05-18 22:17:15:558  INFO: [xml] {14921} Find header in 0x21E0687000
+05-18 22:17:15:558  INFO: [xml] {14921} Find footer in 0x21E0687261
+05-18 22:17:15:558  INFO: [xml] {14922} Find header in 0x21E0688000
+05-18 22:17:15:559  INFO: [xml] {14922} Find footer in 0x21E0688261
+05-18 22:17:15:559  INFO: [xml] {14923} Find header in 0x21E0689000
+05-18 22:17:15:559  INFO: [xml] {14923} Find footer in 0x21E0689261
+05-18 22:17:15:561  INFO: [xml] {14924} Find header in 0x21E0697000
+05-18 22:17:15:561  INFO: [xml] {14924} Find footer in 0x21E069728F
+05-18 22:17:15:568  INFO: [xml] {14925} Find header in 0x21E071B000
+05-18 22:17:15:574 DEBUG: [xml] {14925} Cut off by {png}
+05-18 22:17:15:662  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:21:057 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:21:057  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:21:057 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:21:129  INFO: [xml] {14927} Find header in 0x21E10BA000
+05-18 22:17:21:130  INFO: [xml] {14927} Find footer in 0x21E10BA175
+05-18 22:17:21:162  INFO: [xml] {14933} Find header in 0x21E122C000
+05-18 22:17:21:168 DEBUG: [xml] {14933} Cut off by {png}
+05-18 22:17:21:174  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:21:184  INFO: [xml] {14936} Find header in 0x21E1334000
+05-18 22:17:21:184  INFO: [xml] {14936} Find footer in 0x21E13342DC
+05-18 22:17:21:270  INFO: [xml] {14938} Find header in 0x21E1795000
+05-18 22:17:21:270  INFO: [xml] {14938} Find footer in 0x21E17952E2
+05-18 22:17:21:306 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:21:317  INFO: [xml] {14946} Find header in 0x21E1A78000
+05-18 22:17:21:317  INFO: [xml] {14946} Find footer in 0x21E1A782C6
+05-18 22:17:21:318  INFO: [xml] {14951} Find header in 0x21E1A7D000
+05-18 22:17:21:318  INFO: [xml] {14951} Find footer in 0x21E1A7D2C2
+05-18 22:17:21:318  INFO: [xml] {14952} Find header in 0x21E1A85000
+05-18 22:17:21:342  WARN: [xml] {14952} Didn't find footer before reaching maximum
+05-18 22:17:21:379  INFO: [xml] {14953} Find header in 0x21E1E18000
+05-18 22:17:21:379  INFO: [xml] {14953} Find footer in 0x21E1E18176
+05-18 22:17:21:418  INFO: [xml] {14955} Find header in 0x21E2162000
+05-18 22:17:21:418  INFO: [xml] {14955} Find footer in 0x21E21622E4
+05-18 22:17:21:419  INFO: [xml] {14961} Find header in 0x21E217B000
+05-18 22:17:21:419  INFO: [xml] {14961} Find footer in 0x21E217B291
+05-18 22:17:21:420  INFO: [xml] {14962} Find header in 0x21E2181000
+05-18 22:17:21:425 DEBUG: [xml] {14962} Cut off by {htm}
+05-18 22:17:21:432  INFO: [xml] {14963} Find header in 0x21E2214000
+05-18 22:17:21:432  INFO: [xml] {14963} Find footer in 0x21E22142D2
+05-18 22:17:21:463  INFO: [xml] {14965} Find header in 0x21E2491000
+05-18 22:17:21:465 DEBUG: [xml] {14965} Cut off by {png}
+05-18 22:17:21:477  INFO: [xml] {14972} Find header in 0x21E254D000
+05-18 22:17:21:477  INFO: [xml] {14972} Find footer in 0x21E254D09C
+05-18 22:17:21:653  INFO: [xml] {14978} Find header in 0x21E3157000
+05-18 22:17:21:653  INFO: [xml] {14978} Find footer in 0x21E31572C1
+05-18 22:17:21:654  INFO: [xml] {14984} Find header in 0x21E316C000
+05-18 22:17:21:655  INFO: [xml] {14984} Find footer in 0x21E3177541
+05-18 22:17:21:672  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:21:672 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:21:672  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:21:672 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:21:673  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:21:741  WARN: [SaveFolderClusterToMap]: the Same keyValue(CFatFormat::SaveFolderClusterToMap)
+05-18 22:17:21:745  INFO: [xml] {14985} Find header in 0x21E35EE000
+05-18 22:17:21:745  INFO: [xml] {14985} Find footer in 0x21E35EE177
+05-18 22:17:21:776  INFO: [xml] {14988} Find header in 0x21E37C3000
+05-18 22:17:21:776  INFO: [xml] {14988} Find footer in 0x21E37C3395
+05-18 22:17:23:683  INFO: [xml] {14993} Find header in 0x21E3A5E000
+05-18 22:17:23:683  INFO: [xml] {14993} Find footer in 0x21E3A5E191
+05-18 22:17:23:696 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:23:696  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:23:696 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:23:713 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:23:714 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:23:715 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:23:715 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:23:735  INFO: [xml] {15001} Find header in 0x21E3C24000
+05-18 22:17:23:742  INFO: [xml] {15003} Find header in 0x21E3C66000
+05-18 22:17:23:773  WARN: [xml] {15001} Didn't find footer before reaching maximum
+05-18 22:17:23:909 DEBUG: [m2ts] {14880} Cut off by {m2ts} at 145560484352
+05-18 22:17:23:962  INFO: [xml] {15004} Find header in 0x21E4576000
+05-18 22:17:23:979  WARN: [xml] {15004} Didn't find footer before reaching maximum
+05-18 22:17:24:969  INFO: [xml] {15010} Find header in 0x21E74C6000
+05-18 22:17:24:969  INFO: [xml] {15010} Find footer in 0x21E74C6140
+05-18 22:17:24:988  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:24:991  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:25:156  INFO: [sqlite] {14910} Find header in 0x21E79FA000
+05-18 22:17:25:664  INFO: [xml] {15019} Find header in 0x21E7EC4000
+05-18 22:17:25:681  INFO: [xml] {15019} Find footer in 0x21E7FB8031
+05-18 22:17:27:141  INFO: [xml] {15023} Find header in 0x21E898D000
+05-18 22:17:27:141  INFO: [xml] {15023} Find footer in 0x21E898D07B
+05-18 22:17:29:084  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:30:781 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:30:781  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:30:782 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:30:782 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:30:782  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:30:782 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:30:782 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:30:782  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:30:782 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:30:967 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:30:967  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:30:968 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:028 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:028  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:029 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:029 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:31:039  INFO: [sqlite] {15021} Find header in 0x21EAAD1000
+05-18 22:17:31:094 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:094  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:094 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:094 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:094  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:094 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:095 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:095  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:095 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:096 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:31:327 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:327  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:327 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:327 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:31:374 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:375  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:375 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:413 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:413 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:31:413 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:413  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:413 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:413 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:413  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:414 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:414 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:414  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:414 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:31:414 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:414 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:31:414 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:31:414  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:31:414 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:32:359  WARN: [SaveFolderClusterToMap]: the Same keyValue(CFatFormat::SaveFolderClusterToMap)
+05-18 22:17:33:513  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:514  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:514  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:514  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:514  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:514  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:515  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:515  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:515  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:515  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:661 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:33:662 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:33:662  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:662  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:663  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:663  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:663  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:664 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:33:664 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:33:664  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:664  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:665 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:33:665  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:665 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:33:665 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:33:665  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:665 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:33:666  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:666 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:33:667  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:667 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:33:667 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:33:667  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:667 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:33:668  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:668  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:668  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:669  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:669  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:669 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:33:669  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:669 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:33:669 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:33:669  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:670 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:33:670 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:33:670  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:33:670 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:33:781  INFO: [xml] {15024} Find header in 0x21EFB7B000
+05-18 22:17:33:838  WARN: [xml] {15024} Didn't find footer before reaching maximum
+05-18 22:17:34:796  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:34:797 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:34:820  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:34:820 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:35:049  INFO: [xml] {15042} Find header in 0x21F1637000
+05-18 22:17:35:049  INFO: [xml] {15042} Find footer in 0x21F16371A0
+05-18 22:17:35:164 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:35:164  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:35:165 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:35:165 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:35:165  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:35:165 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:35:348  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:35:400 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:35:400  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:35:400 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:35:430 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:35:430 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:35:431 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:35:508 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:35:687  INFO: [xml] {15055} Find header in 0x21F2E71000
+05-18 22:17:35:712  WARN: [xml] {15055} Didn't find footer before reaching maximum
+05-18 22:17:36:029  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:36:127  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:36:212  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:36:259 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:36:259 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:36:259 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:36:259  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:36:259 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:36:361  INFO: [xml] {15070} Find header in 0x21F4EB8000
+05-18 22:17:36:361  INFO: [xml] {15070} Find footer in 0x21F4EB809C
+05-18 22:17:36:457  INFO: [xml] {15093} Find header in 0x21F5740600
+05-18 22:17:36:458  INFO: [xml] {15093} Find footer in 0x21F57406C7
+05-18 22:17:36:458  INFO: [xml] {15094} Find header in 0x21F5740A00
+05-18 22:17:36:458  INFO: [xml] {15094} Find footer in 0x21F5740AC4
+05-18 22:17:36:458  INFO: [xml] {15095} Find header in 0x21F5740E00
+05-18 22:17:36:458  INFO: [xml] {15095} Find footer in 0x21F5740FBB
+05-18 22:17:36:477  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:36:477  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:36:520  INFO: [xml] {15096} Find header in 0x21F5A7E000
+05-18 22:17:36:520  INFO: [xml] {15096} Find footer in 0x21F5A7E175
+05-18 22:17:36:533 DEBUG: [svg] {15033} Cut off by {png}
+05-18 22:17:36:537  INFO: [xml] {15097} Find header in 0x21F5B5C000
+05-18 22:17:36:537  INFO: [xml] {15097} Find footer in 0x21F5B5C175
+05-18 22:17:36:537  INFO: [xml] {15100} Find header in 0x21F5B5D000
+05-18 22:17:36:537  INFO: [xml] {15100} Find footer in 0x21F5B5D170
+05-18 22:17:36:550  INFO: [xml] {15101} Find header in 0x21F5BE6000
+05-18 22:17:36:550  INFO: [xml] {15101} Find footer in 0x21F5BE6175
+05-18 22:17:36:626 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:36:626 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:36:944 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:36:944  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:36:944 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:36:944  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:37:366  INFO: [xml] {15102} Find header in 0x21F8B3F000
+05-18 22:17:37:366  INFO: [xml] {15102} Find footer in 0x21F8B3F2A1
+05-18 22:17:37:408  INFO: [xml] {15117} Find header in 0x21F8DE2000
+05-18 22:17:37:408  INFO: [xml] {15117} Find footer in 0x21F8DE35D1
+05-18 22:17:37:432  INFO: [xml] {15118} Find header in 0x21F8F2B000
+05-18 22:17:37:459  INFO: [xml] {15121} Find header in 0x21F8FD9000
+05-18 22:17:37:464  INFO: [xml] {15122} Find header in 0x21F9005000
+05-18 22:17:37:466  INFO: [xml] {15123} Find header in 0x21F9017000
+05-18 22:17:37:467  WARN: [xml] {15118} Didn't find footer before reaching maximum
+05-18 22:17:37:548  INFO: [xml] {15124} Find header in 0x21F9401000
+05-18 22:17:37:549  INFO: [xml] {15124} Find footer in 0x21F9401284
+05-18 22:17:37:696  INFO: [xml] {15135} Find header in 0x21F9BFD000
+05-18 22:17:37:696  INFO: [xml] {15135} Find footer in 0x21F9BFD1BA
+05-18 22:17:37:863  INFO: [xml] {15139} Find header in 0x21FA387000
+05-18 22:17:37:863  INFO: [xml] {15139} Find footer in 0x21FA3877CC
+05-18 22:17:37:867  INFO: [xml] {15143} Find header in 0x21FA3B7000
+05-18 22:17:37:872 DEBUG: [xml] {15143} Cut off by {png}
+05-18 22:17:37:884  INFO: [xml] {15145} Find header in 0x21FA4DA000
+05-18 22:17:37:884  INFO: [xml] {15145} Find footer in 0x21FA4DA17B
+05-18 22:17:37:884  INFO: [xml] {15150} Find header in 0x21FA4DB000
+05-18 22:17:37:884  INFO: [xml] {15150} Find footer in 0x21FA4DB177
+05-18 22:17:37:890  INFO: [xml] {15151} Find header in 0x21FA529000
+05-18 22:17:37:891  INFO: [xml] {15151} Find footer in 0x21FA52916D
+05-18 22:17:37:896  INFO: [xml] {15153} Find header in 0x21FA551000
+05-18 22:17:37:896  INFO: [xml] {15153} Find footer in 0x21FA55116B
+05-18 22:17:37:902  INFO: [xml] {15155} Find header in 0x21FA59B000
+05-18 22:17:37:903  INFO: [xml] {15155} Find footer in 0x21FA59B2F0
+05-18 22:17:37:904  INFO: [xml] {15158} Find header in 0x21FA5A5000
+05-18 22:17:37:905  INFO: [xml] {15159} Find header in 0x21FA5B2000
+05-18 22:17:37:911 DEBUG: [xml] {15158} Cut off by {png}
+05-18 22:17:37:913  INFO: [xml] {15160} Find header in 0x21FA607000
+05-18 22:17:37:914 DEBUG: [xml] {15160} Cut off by {svg}
+05-18 22:17:37:914  INFO: [xml] {15163} Find header in 0x21FA617000
+05-18 22:17:37:915  INFO: [xml] {15163} Find footer in 0x21FA6170DB
+05-18 22:17:37:915  INFO: [xml] {15165} Find header in 0x21FA61A000
+05-18 22:17:37:915  INFO: [xml] {15165} Find footer in 0x21FA61AAE1
+05-18 22:17:37:979  INFO: [xml] {15166} Find header in 0x21FAA75000
+05-18 22:17:37:979  INFO: [xml] {15166} Find footer in 0x21FAA751A7
+05-18 22:17:37:990  INFO: [xml] {15174} Find header in 0x21FAB5B000
+05-18 22:17:37:995 DEBUG: [xml] {15174} Cut off by {png}
+05-18 22:17:38:009  INFO: [xml] {15178} Find header in 0x21FAC4A000
+05-18 22:17:38:009  INFO: [xml] {15178} Find footer in 0x21FAC4A2F8
+05-18 22:17:38:015  INFO: [xml] {15181} Find header in 0x21FACC0000
+05-18 22:17:38:016  INFO: [xml] {15181} Find footer in 0x21FACC02D6
+05-18 22:17:38:016  INFO: [xml] {15183} Find header in 0x21FACC6000
+05-18 22:17:38:016  INFO: [xml] {15183} Find footer in 0x21FACC62C8
+05-18 22:17:39:062  INFO: [xml] {15184} Find header in 0x21FD93C600
+05-18 22:17:39:064 DEBUG: [xml] {15184} Find footer in 0x21FD94F4F1
+05-18 22:17:39:428 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:428  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:428 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:429 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:429  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:429 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:429 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:429  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:429 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:430 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:430  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:430 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:430 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:430 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:436 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:436 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:436 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:436  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:436 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:437 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:437  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:437 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:439 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:439 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:439 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:440  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:440 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:441 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:441 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:441 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:441  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:441 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:444 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:444 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:444 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:444  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:444 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:444 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:444 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:444 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:444  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:444 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:444 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:444  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:444 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:445 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:445 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:445 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:445  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:445 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:447 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:447 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:447 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:447  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:447 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:447 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:447 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:447 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:447  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:447 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:447 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:447 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:448 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:448  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:448 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:448 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:448  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:448 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:451 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:451 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:451 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:451  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:451 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:454 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:454 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:454 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:454  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:454 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:457 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:457  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:457 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:457 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:457  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:457 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:458 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:507  INFO: [xml] {15193} Find header in 0x21FECC0000
+05-18 22:17:39:528 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:528 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:529  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:529 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:529 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:529 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:529 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:529 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:529 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:529  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:529 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:529 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:529  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:529 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:530 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:530  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:530 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:530 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:533  WARN: [xml] {15193} Didn't find footer before reaching maximum
+05-18 22:17:39:535 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:535 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:535  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:536 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:536 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:536 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:536 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:536  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:536 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:537 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:537 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:537 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:537  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:537 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:537 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:537 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:537 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:537  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:537 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:538 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:538 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:538 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:538  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:538 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:538 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:538 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:538 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:538  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:538 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:538 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:538 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:39:539 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:539 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:539 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:539  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:540 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:541 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:541 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:541 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:541  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:541 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:541 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:541 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:39:541 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:541 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:541 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:541  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:541 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:543 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:543 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:543 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:543  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:543 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:543 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:543 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:39:543 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:543 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:543 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:543  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:543 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:544 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:544 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:544 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:544  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:544 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:544 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:544 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:544 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:544 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:39:544 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:544 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:544 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:544  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:545 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:545 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:545 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:545 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:545  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:545 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:546 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:546 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:546 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:546 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:39:546 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:546 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:39:547 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:551  INFO: [xml] {15195} Find header in 0x21FEEC2000
+05-18 22:17:39:551  INFO: [xml] {15195} Find footer in 0x21FEEC3C5C
+05-18 22:17:39:555  INFO: [xml] {15196} Find header in 0x21FEF17000
+05-18 22:17:39:555  INFO: [xml] {15196} Find footer in 0x21FEF172AC
+05-18 22:17:39:556  INFO: [xml] {15198} Find header in 0x21FEF1F000
+05-18 22:17:39:556  INFO: [xml] {15198} Find footer in 0x21FEF1F2AC
+05-18 22:17:39:580 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:580 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:580  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:580 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:581 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:591 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:591 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:591  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:591 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:591 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:591 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:39:591 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:591 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:591 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:591  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:591 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:591 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:592 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:592 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:592  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:592 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:592 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:592 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:592 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:592  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:592 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:17:39:592 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:592 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:17:39:594 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:17:39:594  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:17:39:594 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:18:32:417  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:18:32:418  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:18:33:178  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:18:33:178  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:18:34:926 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:18:34:926  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:18:34:926 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:20:14:372  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:20:14:372  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:20:14:609  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:20:14:609  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:20:15:542  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:20:15:542  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:00:170  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:00:979 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:00:980 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:18:102 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:18:104 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:18:104  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:18:104 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:18:104 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:18:104  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:18:104 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:18:105 DEBUG: [m2ts] {15278} Cut off by {m2ts} at 153627182080
+05-18 22:21:18:106 DEBUG: [m2ts] {15279} Cut off by {m2ts} at 153627182592
+05-18 22:21:18:106 DEBUG: [m2ts] {15280} Cut off by {m2ts} at 153627183104
+05-18 22:21:18:106 DEBUG: [m2ts] {15281} Cut off by {m2ts} at 153627183616
+05-18 22:21:18:106 DEBUG: [m2ts] {15282} Cut off by {m2ts} at 153627184128
+05-18 22:21:18:106 DEBUG: [m2ts] {15283} Cut off by {m2ts} at 153627184640
+05-18 22:21:18:115 DEBUG: [m2ts] {15285} Cut off by {m2ts} at 153628205568
+05-18 22:21:18:115 DEBUG: [m2ts] {15286} Cut off by {m2ts} at 153628206080
+05-18 22:21:18:115 DEBUG: [m2ts] {15287} Cut off by {m2ts} at 153628206592
+05-18 22:21:18:115 DEBUG: [m2ts] {15288} Cut off by {m2ts} at 153628207104
+05-18 22:21:18:115 DEBUG: [m2ts] {15289} Cut off by {m2ts} at 153628207616
+05-18 22:21:18:257  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:18:334 DEBUG: [m2ts] {15291} Cut off by {m2ts} at 153633227264
+05-18 22:21:18:562  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:18:563 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:18:732  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:19:031  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:19:031 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:19:031  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:19:031 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:19:031 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:19:031  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:19:031 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:19:443  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:19:570 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:19:979 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:19:979 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:19:980 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:19:980 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:19:980 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:19:980 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:19:980 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:19:980  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:19:980 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:19:980 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:19:980 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:19:980 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:19:980 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:20:051  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:100  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:100  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:101  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:187 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:20:197 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:20:243 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:20:243  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:243 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:20:371  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:372  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:372  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:416  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:416  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:416  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:416  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:416  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:416  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:416  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:416  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:434 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:20:434  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:434 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:20:436  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:436  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:436  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:436  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:436  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:436  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:516  INFO: [sqlite] {15037} Find header in 0x23C895F000
+05-18 22:21:20:533 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:20:534 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:20:534 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:20:534  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:20:599 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:20:635 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:20:636 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:20:639 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:20:639 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:20:816 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:21:981 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:22:535 DEBUG: [m2ts] {15315} Cut off by {m2ts} at 153746662400
+05-18 22:21:22:586 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:22:586 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:22:586 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:22:586 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:22:586  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:22:637  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:22:638  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:22:709 DEBUG: [m2ts] {15317} Cut off by {m2ts} at 153753631744
+05-18 22:21:22:758 DEBUG: [m2ts] {15319} Cut off by {m2ts} at 153756705280
+05-18 22:21:22:758 DEBUG: [m2ts] {15320} Cut off by {m2ts} at 153756705792
+05-18 22:21:22:758 DEBUG: [m2ts] {15321} Cut off by {m2ts} at 153756706304
+05-18 22:21:22:759 DEBUG: [m2ts] {15322} Cut off by {m2ts} at 153756706816
+05-18 22:21:22:759 DEBUG: [m2ts] {15323} Cut off by {m2ts} at 153756707328
+05-18 22:21:22:759 DEBUG: [m2ts] {15324} Cut off by {m2ts} at 153756707840
+05-18 22:21:22:759 DEBUG: [m2ts] {15325} Cut off by {m2ts} at 153756708352
+05-18 22:21:22:861 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:22:928 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:22:928 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:23:026 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:23:027 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:23:152 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:152 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:23:207  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:216 DEBUG: [m2ts] {15329} Cut off by {m2ts} at 153770646016
+05-18 22:21:23:237 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:237  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:237 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:23:237 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:237  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:237 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:23:237  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:238 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:238 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:23:238 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:238 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:23:238 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:238 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:23:238 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:238 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:23:238 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:238  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:238 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:23:239 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:23:279  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:374 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:374  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:505 DEBUG: [m2ts] {15334} Cut off by {m2ts} at 153779925504
+05-18 22:21:23:505 DEBUG: [m2ts] {15336} Cut off by {m2ts} at 153779926016
+05-18 22:21:23:505 DEBUG: [m2ts] {15337} Cut off by {m2ts} at 153779926528
+05-18 22:21:23:506 DEBUG: [m2ts] {15338} Cut off by {m2ts} at 153779927040
+05-18 22:21:23:506 DEBUG: [m2ts] {15339} Cut off by {m2ts} at 153779927552
+05-18 22:21:23:506 DEBUG: [m2ts] {15340} Cut off by {m2ts} at 153779928064
+05-18 22:21:23:506 DEBUG: [m2ts] {15341} Cut off by {m2ts} at 153779928576
+05-18 22:21:23:727  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:886 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:886 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:23:904  WARN: [SaveFolderClusterToMap]: the Same keyValue(CFatFormat::SaveFolderClusterToMap)
+05-18 22:21:23:905  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:905  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:905  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:905  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:905  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:906  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:948 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:948 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:23:949 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:23:949  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:23:949 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:24:036  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:24:037  WARN: [SaveFolderClusterToMap]: the Same keyValue(CFatFormat::SaveFolderClusterToMap)
+05-18 22:21:24:488  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:24:489  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:24:723  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:24:724  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:24:726  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:24:806  INFO: [Exfat::CExfatFormat::TryBuidVBRFromUpcase] Upcase founded sec:300432041
+05-18 22:21:24:995  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:25:075 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:25:075 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:25:075 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:25:075  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:25:076 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:25:076  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:25:307 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:25:453 DEBUG: [m2ts] {15349} Cut off by {m2ts} at 153838265344
+05-18 22:21:25:454 DEBUG: [m2ts] {15351} Cut off by {m2ts} at 153838265856
+05-18 22:21:25:454 DEBUG: [m2ts] {15352} Cut off by {m2ts} at 153838266368
+05-18 22:21:25:454 DEBUG: [m2ts] {15353} Cut off by {m2ts} at 153838266880
+05-18 22:21:25:454 DEBUG: [m2ts] {15354} Cut off by {m2ts} at 153838267392
+05-18 22:21:25:454 DEBUG: [m2ts] {15355} Cut off by {m2ts} at 153838267904
+05-18 22:21:25:594  WARN: [SaveFolderClusterToMap]: the Same keyValue(CFatFormat::SaveFolderClusterToMap)
+05-18 22:21:25:836 ERROR: [GetFullNameForFirstEntryofSperatedCluser]: file name Wrong(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::GetFullNameForFirstEntryofSperatedCluser, 2555)
+05-18 22:21:25:836  INFO: [GetSeparatedClusterNum]: Get Full Name Failed
+05-18 22:21:25:836  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:25:836  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:26:250 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:26:250  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:26:250 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:26:326  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:26:504 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:26:504 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:26:504 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:26:549  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:27:353  INFO: [Exfat::CExfatFormat::TryBuidVBRFromUpcase] Upcase founded sec:300552240
+05-18 22:21:27:399 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:27:399 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:27:540  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:542  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:542  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:542  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:542  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:542  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:542  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:542  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:543  WARN: [SaveFolderClusterToMap]: the Same keyValue(CFatFormat::SaveFolderClusterToMap)
+05-18 22:21:27:543  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:543 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:27:543  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:27:635  INFO: Find $MFT sector: 300561936
+05-18 22:21:27:697 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:27:709  INFO: Find $MFT sector: 300562984
+05-18 22:21:27:726 DEBUG: [m2ts] {15361} Cut off by {m2ts} at 153894630400
+05-18 22:21:27:726 DEBUG: [m2ts] {15364} Cut off by {m2ts} at 153894630912
+05-18 22:21:27:726 DEBUG: [m2ts] {15365} Cut off by {m2ts} at 153894631424
+05-18 22:21:27:726 DEBUG: [m2ts] {15366} Cut off by {m2ts} at 153894631936
+05-18 22:21:27:726 DEBUG: [m2ts] {15367} Cut off by {m2ts} at 153894632448
+05-18 22:21:27:726 DEBUG: [m2ts] {15368} Cut off by {m2ts} at 153894632960
+05-18 22:21:27:799  WARN: [SaveFolderClusterToMap]: the Same keyValue(CFatFormat::SaveFolderClusterToMap)
+05-18 22:21:27:933  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:27:933  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:28:100  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:28:113  INFO: [xml] {15199} Find header in 0x23D56D8200
+05-18 22:21:28:114  INFO: [xml] {15199} Find footer in 0x23D56D8379
+05-18 22:21:28:139 DEBUG: [m2ts] {15370} Cut off by {m2ts} at 153906062336
+05-18 22:21:28:140 DEBUG: [m2ts] {15372} Cut off by {m2ts} at 153906062848
+05-18 22:21:28:140 DEBUG: [m2ts] {15373} Cut off by {m2ts} at 153906063360
+05-18 22:21:28:140 DEBUG: [m2ts] {15374} Cut off by {m2ts} at 153906063872
+05-18 22:21:28:140 DEBUG: [m2ts] {15375} Cut off by {m2ts} at 153906064384
+05-18 22:21:28:140 DEBUG: [m2ts] {15376} Cut off by {m2ts} at 153906064896
+05-18 22:21:28:163 DEBUG: [m2ts] {15378} Cut off by {m2ts} at 153907770368
+05-18 22:21:28:163 DEBUG: [m2ts] {15379} Cut off by {m2ts} at 153907770880
+05-18 22:21:28:163 DEBUG: [m2ts] {15380} Cut off by {m2ts} at 153907771392
+05-18 22:21:28:163 DEBUG: [m2ts] {15381} Cut off by {m2ts} at 153907771904
+05-18 22:21:28:163 DEBUG: [m2ts] {15382} Cut off by {m2ts} at 153907772416
+05-18 22:21:28:163 DEBUG: [m2ts] {15383} Cut off by {m2ts} at 153907772928
+05-18 22:21:28:175  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:28:193 DEBUG: [m2ts] {15385} Cut off by {m2ts} at 153909641728
+05-18 22:21:28:193 DEBUG: [m2ts] {15386} Cut off by {m2ts} at 153909642240
+05-18 22:21:28:193 DEBUG: [m2ts] {15387} Cut off by {m2ts} at 153909642752
+05-18 22:21:28:193 DEBUG: [m2ts] {15388} Cut off by {m2ts} at 153909643264
+05-18 22:21:28:193 DEBUG: [m2ts] {15389} Cut off by {m2ts} at 153909643776
+05-18 22:21:28:196 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:28:246 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:28:246 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:28:246 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:28:249  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:28:458 ERROR: [GetFullNameForFirstEntryofSperatedCluser]: file name Wrong(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::GetFullNameForFirstEntryofSperatedCluser, 2555)
+05-18 22:21:28:458  INFO: [GetSeparatedClusterNum]: Get Full Name Failed
+05-18 22:21:28:458  WARN: 2011-12-12:Some dirItem was dropped(CFatFormat::ExtractIFT)
+05-18 22:21:28:577  WARN: [SaveFolderClusterToMap]: the Same keyValue(CFatFormat::SaveFolderClusterToMap)
+05-18 22:21:28:618 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:28:618 ERROR: 2012-12-13 :f.GetInfoFromDirEnt(pfe, parentClst) == 0 this code failed,so AddIFT2Map(f) doesn't carry out(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::ExtractIFT, 1440)
+05-18 22:21:28:618 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:28:618  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:28:618 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:28:619  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:28:626 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:28:627  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:28:627 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:28:627 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:28:627  WARN: 2012-12-20:file Or folder is filterred :Push call return 3(CFatFormat::AddIFT2Map)
+05-18 22:21:28:627 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:28:664  INFO: [xml] {15371} Find header in 0x23D63D8800
+05-18 22:21:28:664  INFO: [xml] {15371} Find footer in 0x23D63D88C0
+05-18 22:21:28:685 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:28:685 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:28:685 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:28:685 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fatrecover.cpp:CFatFormat::MakeRunList, 2179)
+05-18 22:21:28:733 ERROR: 2012-12-20:Attention Please:Dir size != 0, maybe deleted(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\workspace\src\contrib\fat_item.cpp:IFT::GetInfoFromDirEnt, 63)
+05-18 22:21:28:733 ERROR: [CFatFormat] :  > m_devSectors,return pRunList = NULL(e:\ci\hudson\jobs\datarecoverysdk_recoverit8.2.3\worksAHCF   ¡  j(pL  
+      ·(E¡ø42·(E¡·(E¡µ   ¶ÀE¡·N¢·   ¶JO¡·xD¢·	   ¶8E¡·èF¡·H¾£·¿  e(E¡¡(o¡¸(I¡™(I¡’(J¡¾(¡Þ(&¡Å(*¡Ä(*¡Ñ(1¡—(¡Ø(7¡Ç(*¡Å($¡Ã(,¡Ø(+¡·(¡ä(e¡ç(¡ç(e¡ñ(7¡Ö((¡Þ(+¡Ð(e¡ó(7¡Þ(3¡Ò(7¡—(m¡ä(1¡Å(*¡Ù("¡—( ¡Ù(&¡Å(<¡Ç(1¡Þ(*¡Ù(l¡·(t¡‡(k¡‡(k¡†(}¡„(s¡…(k¡€(t¡Ž(E¡ù(¡þ(¡à(¡ù(k¡ä(¡ä(E¡(e¡ú(,¡Ô(7¡Ø(6¡Ø(#¡Ã(e¡ô(*¡Å(5¡Ø(7¡Ö(1¡Þ(*¡Ù(k¡—(¡Û()¡—(7¡Þ("¡ß(1¡Ä(e¡Å( ¡Ä( ¡Å(3¡Ò(!¡™(E¡ù(¡þ(¡à(¡ù(k¡ä(¡ä(E¡ú(,¡Ô(7¡Ø(6¡Ø(#¡Ã(ë¡—(¡Þ(+¡Ó(*¡À(6¡(e¡ø(5¡Ò(7¡Ö(1¡Þ(+¡Ð(e¡ä(<¡Ä(1¡Ò((¡·(t¡‡(k¡‡(k¡†(}¡„(s¡…(k¡€(t¡Ž(E¡‡(q¡‡(|¡‡(q¡õ(u¡·[_  ¡9@¡·*=™ZGtì£Ï¨µÞ8ˆ*P!JGtì£Kµh¹µP}L*P!JGtì£PLn±ÓTÿ¤*=™ZGtì£bƒfµP}L*
+”GÙÅì§Ê!½ÞµP}L*
+”G_÷£PnóbµÜ€ç*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£t±é]µÑÂ'*÷DëßG†"÷?£.ËÊíµGuú•*=™ZGtì£Ï¨µýî‚*ÜB8dG ‚£Qí.µP}L*
+”GÙÅì£bƒfµP}L*
+”G¸!ñØ£bƒfµº$Q*=™ZGtì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”C­–í»£‚fþµýî‚*=™ZG™š»H£bƒfµP}L*
+”Gtì£Ï¨µýî‚*¼&¸GÙÅì£Ö¬µýî‚*=™ZGtì£bƒfµP}L*=™ZGtì£¬0C¡µ‘s*üôìGº¯.E£}ïeµ‘s*U²»Gúþ'ä£ìaJ µs®*t/©×Gâ\£çôåùµô^¬*¿Â0xG[Ô¯£MKÂñµ(@¯Ò*¿Â0xG[Ô¯£MKÂñµ±¦.û*ÜB8dGº¯.E£}ïeµ3]§·*üôìGÙÅì£bƒfµçlË*=™ZGtì£bƒfµP}L*m$GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµçlË*Šˆ‹TGG€Ê£Ï¨µýî‚*Šˆ‹TG×’2(£{*µ¿H…*Ø·=@G8ÈóX£ŸdÛ[µõ³Gõ*¹<š0GíÕjH§4‡aµÔØŒ¯*˜WQjGRt²£jÞ£ãµÔØŒ¯*mÏEGÙÅì£bƒfµš ý@*¹<š0G†"÷?£ÍVµÐ'*“X>mG|AÎ£øUÍ¸µg8)®*=™ZGtì£?ïçµ±¦.û*3„­EG£´2ð=µ 	?M*mí)ÒGRt²£.ËÊíµ±¦.û*ÜB8dGÞ€£.ËÊíµP}L*
+”G8T§	£Ï¨µýî‚*ÜB8dG8T§	£ŸdÛ[µ”+d™*ë\ÝrG‰û¶¿§L9²±ÓTÿ¤.¾°é;GÙÅì£bƒfµoäUà*S5YÖGºˆÏB£Ï¨µýî‚*=™ZGtì£bƒfµº$Q*mÏEGÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GŽDÞF£ŸdÛ[µ”+d™*ë\ÝrGÞ€£¡¼«_µ3zF°.¢2ýNCF$b#§P»Ç±ÏÖëÑ*Ö´ÈCF$b#§T~c£±Ë‡µ.¢2ýNG2+¥£¬0C¡µ‘s*ÜB8dGFˆ!Š£¬0C¡µ6€j*ûÚå‘Gâ‚£¬0C¡µP}L*
+”Gâ‚£sÁµüçÏg*)™ÙðGRt²£¬0C¡µ‘s*ÜB8dGuF•£Á_ÌµD}Ïo*üÈGRt²£øUÍ¸µ/´*A†GtÃt‡£øUÍ¸µ/´*A†GtÃt‡£.ËÊíµP}L*
+”GÙÅì£bƒfµ±¦.û*¹<š0G]*]£Ö¬µP}L*
+”GlÓ˜£Ï¨µýî‚*¹<š0Gtì£µ¿)øµÔØŒ¯*=™ZGtì£Ï¨µýî‚*=™ZG×’2(£¡¼«_µ^`»Ú*ë\ÝrGtì£Ï¨µýî‚*}Œ$%GÙÅì£Ï¨µýî‚*=™ZGtì£Kµh¹µ­ôWÕ*w^2ÎGã{P(£Ï¨µý1ýu*=™ZGtì£³ˆtžµP}L.YydÁGÙÅì£bƒf±VJú*=™ZGtì£xyÝµP}L*
+”G™š»H£$žFA±Ë‡µ.¦÷‘*CBáG§P»Çµ»ó¢W*=™ZGtì£…×ÀGµP}L*³Üž‘G´7Õb£xyÝµ=Å\*
+”GÙÅì£bƒfµP}L*
+”GÞ€£³ˆtžµP}L*
+”G]*]§L9²±<‡<‚.¢2ýNCF$b#£ý•ä¸µB¹&*ÂóuwGÎŸú~£þ.¥µÜ€ç*»áƒoG[Ô¯£Ihqæµ²
+0Ù*¹<š0G]*]£Kµh¹µP}L*¹<š0Gtì£H„¬µº$Q*=™ZG]*]£bƒfµ×k`º*SG®G™š»H£óàÏµh2º*=™ZGtì£H„¬µh2º*¹<š0G1cË8£…×ÀGµj‰ÙÚ.YydÁCß¸sà£Ï¨µýî‚*Šˆ‹TGÙÅì£bƒfµh2º*}Œ$%Gtì£…×ÀGµP}L*
+”G; ‚ð£Aí›µ,åˆ*=™ZGtì£Ï¨µýî‚*±dñ„GÙÅì£Ï¨µýî‚*
+”GÙÅì£bƒfµP}L*
+”G×’2(£{*µ±:zª*
+”GÙÅì£Ï¨µýî‚*
+”G\•XÙ£@4­µº$Q*mÏEGÞ€£Ï¨µýî‚*
+”Gs\6£…×ÀGµj‰ÙÚ*üÈG¯Tl£¼Õµµ^`»Ú*ŠéÖGtì£Ï¨µýî‚*
+”GWÊü£¢¨¸†µ&¦åõ*
+”GdKJ<£˜ºèµP}L*
+”GÙÅì£bƒfµýî‚*
+”Gtì£Aí›µÔØŒ¯*üÈGIƒ·£AUlµ=Å\*P!JGWÊü£¢¨¸†µ‘s*=™ZGtì£Ï¨µP}L*
+”GÙÅì£bƒfµýî‚*
+”G/éå£bƒfµýî‚*}Œ$%GIƒ·£AUlµ=Å\*P!JGâ‚£_œîSµÞ8ˆ*P!JG´7Õb£}ïeµ±¦.û*Â ¡GRt²£Oýü1µÞ8ˆ*P!JGtì£Ï¨µýî‚*=™ZGtì£Ï¨µ^`»Ú*=™ZGtì£Ï¨µP}L*
+”Gtì£F€µZÚ*^žP/GÙÅì£bƒfµ@+*ÑZ8CF$b#£jÞ£ãµ¹¸¾f*%Ú[GÙÅì£bƒfµP}L*
+”GÙík£„7>™µ3zF°*=™ZGtì£Ï¨µýî‚*=™ZGtì£bƒfµýî‚*=™ZGtì£Ï¨µýî‚*=™ZGÙÅì£bƒfµÔØŒ¯*s¤=‹G5‹ÅU£Kµh¹µ”-Ð»*w^2ÎGã{P(£Aí›µ¹¸¾f*%Ú[GRt²£Hk;eµ±¦.û*ÜB8dGl¡ÍÏ£ø<w˜µh2º*w^2ÎGÍŸ3{£¬0C¡µ‘s*÷DëßG|AÎ£.ËÊíµš ý@*Hê‚GRt²£.ËÊíµ±¦.û*è¸‰G[Ô¯£V¹ÒµÒ&&ç*^¹±(Gâ‚£.ËÊíµ3]§·*üôìGâ‚£.ËÊíµƒŠaC*+GÙÅì£¬0C¡µ‘s*
+”Gº¯.E£}ïe±,‚*Â ¡G†¡–G§aþÀüµc&¶>*ûQ)CºŽU¸£üKR(µkG¶.À§>xGêÔ?Ì£ôr£ µš ý@*ûQ)Gïu ‚£.ËÊíµ¯cè*1n|›G½èQÕ£ÝÔæ0µ¯cè*~}26GRt²£¹q3µ±¦.û*A¾—–Gpç£ŠÒXµºÛÊÃ*˜WQjGÄ!½Ì£oÆ}.µË¿H*ÜB8dGÍŸ3{£Ï¨µ3]§·*üôìG
+xè±£Ýf„×µuk=*^¹±(Gâ‚£bƒfµÂo=§*8&Æ²Grºa£„š¨µš ý@*çð…GRt²£.ËÊíµ±¦.û*ÜB8dGÍŸ3{£ç…UµUÂÐ-*£#äÏGh½sg£êÙ—µP}L*^¹±(Gâ‚£ç…Uµ?Ï*Œ«ì
+Gü™´s£bƒfµ3]§·*üôìG
+xè±£$R]]µUÂÐ-* 7"¡Gwª‚¦£êÙ—µ÷;E*¢If”G8T§	£Ï¨µDmº‰*^¹±(Gâ‚£¬0C¡µ‘s*^¹±(Gâ‚£bƒfµ@+¼V*øl¨GÉÙ5¤£
+åZ’µ@+¼V*øl¨GÍŸ3{£ûJ¬µ}Ž÷*jáGmµâò£Û ^Ÿµ±:zª*˜WQjG£Å^	Tµ 	?M*înwÜGÚü‡£êÙ—µê2Üó*înwÜGÚü‡£êÙ—µê2Üó*mí)ÒGÍŸ3{£Û ^Ÿµš ý@*ÜB8dG8T§	£.ËÊíµÿb³ÿ*’†¥`GIƒ·£AUlµ=Å\*P!JGâ‚£Ï¨µýî‚*÷DëßGRt²£.ËÊíµ±¦.û*=™ZGtì£•ÿµýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£în…$µP}L*
+”G“H­££Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£bRCµýî‚*=™ZGtì£Ï¨µýî‚.Ù¾óC¡ñ	§ê[bËµP}L*
+”GÙÅì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*÷DëßCq¯ûi£ÒkyµP}L*
+”Gtì£bƒfµP}L*
+”GÙÅì£bƒfµ±¦.û*=™ZGtì£Ï¨µj‰ÙÚ*
+”G“H­££Ï¨µP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GøñèÀ£Ï¨µýî‚*w^2ÎGÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*	Ãõ%Gtì£Kµh¹µÔØŒ¯*=™ZGtì£Ï¨µýî‚*
+”GÙÅì£bƒfµÔØŒ¯*¹<š0GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*=™ZGtì£BPµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£AUlµ=Å\*P!JC¸e*§‰V	qµýî‚*Šˆ‹TGtì£Ï¨µÞ8ˆ*P!JG$NÅ£bƒfµ=Å\*
+”Gnž9£Ï¨µP}L*=™ZGWÊü£¢¨¸†µ=Å\*
+”GIƒ·£}ïeµº$Q*³Üž‘G´7Õb£}ïeµ=Å\*³Üž‘G$NÅ£¢¨¸†µ‘s*=™ZGtì£Kµh¹µP}L*
+”GÙÅì£Ï¨µÂo=§*
+”Gtì£Ï¨µýî‚*=™ZGtì£…×ÀGµÔØŒ¯*¹<š0GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£Kµh¹µýî‚*÷DëßGRt²£.ËÊíµ±¦.û*¹<š0CF$b#£ûJ¬µ•þ*3„­EGÙÅì£bƒfµ±¦.û*ÜB8dG‰û¶¿£bƒfµP}L*
+”GÙÅì£Ï¨µh2º*
+”GÙÅì£bƒfµýî‚*
+Ü?1GÝ=à£³ˆtžµý1ýu*=™ZG™š»H£bƒfµP}L*=™ZGÙÅì£bƒfµýî‚*=™ZGÙÅì£Ö¬µýî‚*
+”Gtì£bƒfµP}L*³Üž‘G´7Õb£bƒfµçlË*=™ZGªJØú£x`$–µ&¦åõ*P!JGtì£Ï¨µš ý@*³Üž‘G´7Õb£¢¨¸†µ±¦.û*=™ZGtì£½y:Jµ#¸Q*3„­EGtì£{*µµS+ß*ÜÞl5GÙÅì£¹Ëãµ¶W´*
+”GÙÅì£bƒfµýî‚*w† G«æW®£<‰©hµ£äM~*jRA+G×’2(£×Vjµ^`»Ú*OðÈÃGÁÉoŽ£Ï¨µd'ãº*
+”Gmµâò£€Ò¬“µµS+ß*ÜÞl5GÙÅì£…í©µ^`»Ú*Î [áGªJØú£x`$–µ&¦åõ*øG*ÄŒ£ŸdÛ[µP}L*
+”G×’2(§Îÿ£0±Q’G&*=™ZG‰û¶¿£Ï¨µýî‚*KBójGªJØú£F€µZÚ*^žP/G‹´£bƒfµP}L*
+”GÙÅì§c®½‡µ-©eW.Ãc>oG¤[ì¥£Ï¨µýî‚*F»´G‹´£Ï¨µýî‚*=™ZGWÊü£¢¨¸†µÞ8ˆ*P!JGWÊü£¢¨¸†µP}L*=™ZGtì£bƒfµ"Þ\*N\G—GŽDÞF£Á_Ìµýî‚*‰£}ŸG<¡¢-£.Wž¼µ&¦åõ*jRA+GÙÅì£bƒfµ"Þ\*
+”Gmµâò£*>ÏÉµ±:zª*jRA+GÙÅì£Ï¨µýî‚*
+”GÙÅì£bƒfµP}L*
+”Gtì£bƒfµP}L*
+”Gtì£Ï¨µP}L*=™ZGtì£bƒfµP}L*
+”Gtì£Ï¨µýî‚*•lZGtì£Ï¨µýî‚*
+”Gº¯.E£ÍVµš ý@*üôìGâ‚£Ï¨µýî‚*=™ZGtì£}ïeµP}L*
+”GÙÅì£bƒfµP}L*
+”G8T§	£.ËÊíµýî‚*ü}vGÙÅì£s“Òwµ(î©\*÷DëßG[Ô¯£MKÂñµÒ&&ç*vYüG’Æ‘§ûZ#µc&¶>*ÄE°¾CßÈ·£üKR(µ©¡¦!.›1©GêÔ?Ì£6ÌB7±Ž*Â ¡G S/Ó§ñsîÕµc&¶>*ÄE°¾GÍŽt¸£xyÝµçlË*ÒKï¿Cú4í£™³ªSµBx!*â¦n¾G§„{£8éŸµ¿¯ù *;PRµG°ñÓ£	8fµh2º*}Œ$%GRt²£ ¬	µB¹&*ÂóuwGËK‹Ô£0z‡þµB¹&*ÂóuwCê‘1!£üKR(±`ú^ú*Â ¡GELB£}f¹±šlž7.¢2ýNG~ÍVó£Kµh¹µGx‘)*˜WQjG|AÎ£jÞ£ãµõ³Gõ*×?Ü\G¥¨û£jÞ£ãµºÛÊÃ*A¾—–GËK‹Ô£0z‡þµB¹&*ÂóuwGËK‹Ô£0z‡þµB¹&*ÂóuwGËK‹Ô£0z‡þµB¹&*ÂóuwG½èQÕ£«w<1µ4Ø'*Hê‚Gæpµt§Î;+6±ô
+¿3*Â ¡G S/Ó§ŽŽü@±ë (˜*Â ¡C¥Ô§å–t÷±ˆ8DD..å!C¬W2ÿ£Oýü1µŠ÷«c*óƒÅC}ø6Á£üKR(µ©¡¦!.0©õÂC}ø6Á£üKR(µ©¡¦!.|ÉC­?^£üKR(µ©¡¦!.W³â„GêÔ?Ì£6ÌB7±ª‹XŒ*Â ¡G S/Ó§qœ6µc&¶>*ÄE°¾Ca!Ð­£üKR(µ©¡¦!.NKGêÔ?Ì£6ÌB7±;	¨*Â ¡G S/Ó§9Rdµc&¶>*ÄE°¾C¯þb£üKR(µ©¡¦!.¼£!GêÔ?Ì£6ÌB7±#<Ø*Â ¡G S/Ó§ÀÂ6Þµc&¶>*ÄE°¾Cê§Q£üKR(µ©¡¦!.Êž9œGêÔ?Ì£6ÌB7±bÊó¾*Â ¡G S/Ó§µj4\µc&¶>*ÄE°¾C=«T×£üKR(µ©¡¦!.HŠKGêÔ?Ì£6ÌB7µš ý@*˜WQ_  ¡9@¡·*=™ZGtì£Ï¨µÞ8ˆ*P!JGtì£Kµh¹µP}L*P!JGtì£PLn±ÓTÿ¤*=™ZGtì£bƒfµP}L*
+”GÙÅì§Ê!½ÞµP}L*
+”G_÷£PnóbµÜ€ç*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£t±é]µÑÂ'*÷DëßG†"÷?£.ËÊíµGuú•*=™ZGtì£Ï¨µýî‚*ÜB8dG ‚£Qí.µP}L*
+”GÙÅì£bƒfµP}L*
+”G¸!ñØ£bƒfµº$Q*=™ZGtì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”C­–í»£‚fþµýî‚*=™ZG™š»H£bƒfµP}L*
+”Gtì£Ï¨µýî‚*¼&¸GÙÅì£Ö¬µýî‚*=™ZGtì£bƒfµP}L*=™ZGtì£¬0C¡µ‘s*üôìGº¯.E£}ïeµ‘s*U²»Gúþ'ä£ìaJ µs®*t/©×Gâ\£çôåùµô^¬*¿Â0xG[Ô¯£MKÂñµ(@¯Ò*¿Â0xG[Ô¯£MKÂñµ±¦.û*ÜB8dGº¯.E£}ïeµ3]§·*üôìGÙÅì£bƒfµçlË*=™ZGtì£bƒfµP}L*m$GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµçlË*Šˆ‹TGG€Ê£Ï¨µýî‚*Šˆ‹TG×’2(£{*µ¿H…*Ø·=@G8ÈóX£ŸdÛ[µõ³Gõ*¹<š0GíÕjH§4‡aµÔØŒ¯*˜WQjGRt²£jÞ£ãµÔØŒ¯*mÏEGÙÅì£bƒfµš ý@*¹<š0G†"÷?£ÍVµÐ'*“X>mG|AÎ£øUÍ¸µg8)®*=™ZGtì£?ïçµ±¦.û*3„­EG£´2ð=µ 	?M*mí)ÒGRt²£.ËÊíµ±¦.û*ÜB8dGÞ€£.ËÊíµP}L*
+”G8T§	£Ï¨µýî‚*ÜB8dG8T§	£ŸdÛ[µ”+d™*ë\ÝrG‰û¶¿§L9²±ÓTÿ¤.¾°é;GÙÅì£bƒfµoäUà*S5YÖGºˆÏB£Ï¨µýî‚*=™ZGtì£bƒfµº$Q*mÏEGÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GŽDÞF£ŸdÛ[µ”+d™*ë\ÝrGÞ€£¡¼«_µ3zF°.¢2ýNCF$b#§P»Ç±ÏÖëÑ*Ö´ÈCF$b#§T~c£±Ë‡µ.¢2ýNG2+¥£¬0C¡µ‘s*ÜB8dGFˆ!Š£¬0C¡µ6€j*ûÚå‘Gâ‚£¬0C¡µP}L*
+”Gâ‚£sÁµüçÏg*)™ÙðGRt²£¬0C¡µ‘s*ÜB8dGuF•£Á_ÌµD}Ïo*üÈGRt²£øUÍ¸µ/´*A†GtÃt‡£øUÍ¸µ/´*A†GtÃt‡£.ËÊíµP}L*
+”GÙÅì£bƒfµ±¦.û*¹<š0G]*]£Ö¬µP}L*
+”GlÓ˜£Ï¨µýî‚*¹<š0Gtì£µ¿)øµÔØŒ¯*=™ZGtì£Ï¨µýî‚*=™ZG×’2(£¡¼«_µ^`»Ú*ë\ÝrGtì£Ï¨µýî‚*}Œ$%GÙÅì£Ï¨µýî‚*=™ZGtì£Kµh¹µ­ôWÕ*w^2ÎGã{P(£Ï¨µý1ýu*=™ZGtì£³ˆtžµP}L.YydÁGÙÅì£bƒf±VJú*=™ZGtì£xyÝµP}L*
+”G™š»H£$žFA±Ë‡µ.¦÷‘*CBáG§P»Çµ»ó¢W*=™ZGtì£…×ÀGµP}L*³Üž‘G´7Õb£xyÝµ=Å\*
+”GÙÅì£bƒfµP}L*
+”GÞ€£³ˆtžµP}L*
+”G]*]§L9²±<‡<‚.¢2ýNCF$b#£ý•ä¸µB¹&*ÂóuwGÎŸú~£þ.¥µÜ€ç*»áƒoG[Ô¯£Ihqæµ²
+0Ù*¹<š0G]*]£Kµh¹µP}L*¹<š0Gtì£H„¬µº$Q*=™ZG]*]£bƒfµ×k`º*SG®G™š»H£óàÏµh2º*=™ZGtì£H„¬µh2º*¹<š0G1cË8£…×ÀGµj‰ÙÚ.YydÁCß¸sà£Ï¨µýî‚*Šˆ‹TGÙÅì£bƒfµh2º*}Œ$%Gtì£…×ÀGµP}L*
+”G; ‚ð£Aí›µ,åˆ*=™ZGtì£Ï¨µýî‚*±dñ„GÙÅì£Ï¨µýî‚*
+”GÙÅì£bƒfµP}L*
+”G×’2(£{*µ±:zª*
+”GÙÅì£Ï¨µýî‚*
+”G\•XÙ£@4­µº$Q*mÏEGÞ€£Ï¨µýî‚*
+”Gs\6£…×ÀGµj‰ÙÚ*üÈG¯Tl£¼Õµµ^`»Ú*ŠéÖGtì£Ï¨µýî‚*
+”GWÊü£¢¨¸†µ&¦åõ*
+”GdKJ<£˜ºèµP}L*
+”GÙÅì£bƒfµýî‚*
+”Gtì£Aí›µÔØŒ¯*üÈGIƒ·£AUlµ=Å\*P!JGWÊü£¢¨¸†µ‘s*=™ZGtì£Ï¨µP}L*
+”GÙÅì£bƒfµýî‚*
+”G/éå£bƒfµýî‚*}Œ$%GIƒ·£AUlµ=Å\*P!JGâ‚£_œîSµÞ8ˆ*P!JG´7Õb£}ïeµ±¦.û*Â ¡GRt²£Oýü1µÞ8ˆ*P!JGtì£Ï¨µýî‚*=™ZGtì£Ï¨µ^`»Ú*=™ZGtì£Ï¨µP}L*
+”Gtì£F€µZÚ*^žP/GÙÅì£bƒfµ@+*ÑZ8CF$b#£jÞ£ãµ¹¸¾f*%Ú[GÙÅì£bƒfµP}L*
+”GÙík£„7>™µ3zF°*=™ZGtì£Ï¨µýî‚*=™ZGtì£bƒfµýî‚*=™ZGtì£Ï¨µýî‚*=™ZGÙÅì£bƒfµÔØŒ¯*s¤=‹G5‹ÅU£Kµh¹µ”-Ð»*w^2ÎGã{P(£Aí›µ¹¸¾f*%Ú[GRt²£Hk;eµ±¦.û*ÜB8dGl¡ÍÏ£ø<w˜µh2º*w^2ÎGÍŸ3{£¬0C¡µ‘s*÷DëßG|AÎ£.ËÊíµš ý@*Hê‚GRt²£.ËÊíµ±¦.û*è¸‰G[Ô¯£V¹ÒµÒ&&ç*^¹±(Gâ‚£.ËÊíµ3]§·*üôìGâ‚£.ËÊíµƒŠaC*+GÙÅì£¬0C¡µ‘s*
+”Gº¯.E£}ïe±,‚*Â ¡G†¡–G§aþÀüµc&¶>*ûQ)CºŽU¸£üKR(µkG¶.À§>xGêÔ?Ì£ôr£ µš ý@*ûQ)Gïu ‚£.ËÊíµ¯cè*1n|›G½èQÕ£ÝÔæ0µ¯cè*~}26GRt²£¹q3µ±¦.û*A¾—–Gpç£ŠÒXµºÛÊÃ*˜WQjGÄ!½Ì£oÆ}.µË¿H*ÜB8dGÍŸ3{£Ï¨µ3]§·*üôìG
+xè±£Ýf„×µuk=*^¹±(Gâ‚£bƒfµÂo=§*8&Æ²Grºa£„š¨µš ý@*çð…GRt²£.ËÊíµ±¦.û*ÜB8dGÍŸ3{£ç…UµUÂÐ-*£#äÏGh½sg£êÙ—µP}L*^¹±(Gâ‚£ç…Uµ?Ï*Œ«ì
+Gü™´s£bƒfµ3]§·*üôìG
+xè±£$R]]µUÂÐ-* 7"¡Gwª‚¦£êÙ—µ÷;E*¢If”G8T§	£Ï¨µDmº‰*^¹±(Gâ‚£¬0C¡µ‘s*^¹±(Gâ‚£bƒfµ@+¼V*øl¨GÉÙ5¤£
+åZ’µ@+¼V*øl¨GÍŸ3{£ûJ¬µ}Ž÷*jáGmµâò£Û ^Ÿµ±:zª*˜WQjG£Å^	Tµ 	?M*înwÜGÚü‡£êÙ—µê2Üó*înwÜGÚü‡£êÙ—µê2Üó*mí)ÒGÍŸ3{£Û ^Ÿµš ý@*ÜB8dG8T§	£.ËÊíµÿb³ÿ*’†¥`GIƒ·£AUlµ=Å\*P!JGâ‚£Ï¨µýî‚*÷DëßGRt²£.ËÊíµ±¦.û*=™ZGtì£•ÿµýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£în…$µP}L*
+”G“H­££Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£bRCµýî‚*=™ZGtì£Ï¨µýî‚.Ù¾óC¡ñ	§ê[bËµP}L*
+”GÙÅì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*=™ZGtì£Ï¨µýî‚*÷DëßCq¯ûi£ÒkyµP}L*
+”Gtì£bƒfµP}L*
+”GÙÅì£bƒfµ±¦.û*=™ZGtì£Ï¨µj‰ÙÚ*
+”G“H­££Ï¨µP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GøñèÀ£Ï¨µýî‚*w^2ÎGÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*	Ãõ%Gtì£Kµh¹µÔØŒ¯*=™ZGtì£Ï¨µýî‚*
+”GÙÅì£bƒfµÔØŒ¯*¹<š0GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*=™ZGtì£BPµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£AUlµ=Å\*P!JC¸e*§‰V	qµýî‚*Šˆ‹TGtì£Ï¨µÞ8ˆ*P!JG$NÅ£bƒfµ=Å\*
+”Gnž9£Ï¨µP}L*=™ZGWÊü£¢¨¸†µ=Å\*
+”GIƒ·£}ïeµº$Q*³Üž‘G´7Õb£}ïeµ=Å\*³Üž‘G$NÅ£¢¨¸†µ‘s*=™ZGtì£Kµh¹µP}L*
+”GÙÅì£Ï¨µÂo=§*
+”Gtì£Ï¨µýî‚*=™ZGtì£…×ÀGµÔØŒ¯*¹<š0GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£bƒfµP}L*
+”GÙÅì£Kµh¹µýî‚*÷DëßGRt²£.ËÊíµ±¦.û*¹<š0CF$b#£ûJ¬µ•þ*3„­EGÙÅì£bƒfµ±¦.û*ÜB8dG‰û¶¿£bƒfµP}L*
+”GÙÅì£Ï¨µh2º*
+”GÙÅì£bƒfµýî‚*
+Ü?1GÝ=à£³ˆtžµý1ýu*=™ZG™š»H£bƒfµP}L*=™ZGÙÅì£bƒfµýî‚*=™ZGÙÅì£Ö¬µýî‚*
+”Gtì£bƒfµP}L*³Üž‘G´7Õb£bƒfµçlË*=™ZGªJØú£x`$–µ&¦åõ*P!JGtì£Ï¨µš ý@*³Üž‘G´7Õb£¢¨¸†µ±¦.û*=™ZGtì£½y:Jµ#¸Q*3„­EGtì£{*µµS+ß*ÜÞl5GÙÅì£¹Ëãµ¶W´*
+”GÙÅì£bƒfµýî‚*w† G«æW®£<‰©hµ£äM~*jRA+G×’2(£×Vjµ^`»Ú*OðÈÃGÁÉoŽ£Ï¨µd'ãº*
+”Gmµâò£€Ò¬“µµS+ß*ÜÞl5GÙÅì£…í©µ^`»Ú*Î [áGªJØú£x`$–µ&¦åõ*øG*ÄŒ£ŸdÛ[µP}L*
+”G×’2(§Îÿ£0±Q’G&*=™ZG‰û¶¿£Ï¨µýî‚*KBójGªJØú£F€µZÚ*^žP/G‹´£bƒfµP}L*
+”GÙÅì§c®½‡µ-©eW.Ãc>oG¤[ì¥£Ï¨µýî‚*F»´G‹´£Ï¨µýî‚*=™ZGWÊü£¢¨¸†µÞ8ˆ*P!JGWÊü£¢¨¸†µP}L*=™ZGtì£bƒfµ"Þ\*N\G—GŽDÞF£Á_Ìµýî‚*‰£}ŸG<¡¢-£.Wž¼µ&¦åõ*jRA+GÙÅì£bƒfµ"Þ\*
+”Gmµâò£*>ÏÉµ±:zª*jRA+GÙÅì£Ï¨µýî‚*
+”GÙÅì£bƒfµP}L*
+”Gtì£bƒfµP}L*
+”Gtì£Ï¨µP}L*=™ZGtì£bƒfµP}L*
+”Gtì£Ï¨µýî‚*•lZGtì£Ï¨µýî‚*
+”Gº¯.E£ÍVµš ý@*üôìGâ‚£Ï¨µýî‚*=™ZGtì£}ïeµP}L*
+”GÙÅì£bƒfµP}L*
+”G8T§	£.ËÊíµýî‚*ü}vGÙÅì£s“Òwµ(î©\*÷DëßG[Ô¯£MKÂñµÒ&&ç*vYüG’Æ‘§ûZ#µc&¶>*ÄE°¾CßÈ·£üKR(µ©¡¦!.›1©GêÔ?Ì£6ÌB7±Ž*Â ¡G S/Ó§ñsîÕµc&¶>*ÄE°¾GÍŽt¸£xyÝµçlË*ÒKï¿Cú4í£™³ªSµBx!*â¦n¾G§„{£8éŸµ¿¯ù *;PRµG°ñÓ£	8fµh2º*}Œ$%GRt²£ ¬	µB¹&*ÂóuwGËK‹Ô£0z‡þµB¹&*ÂóuwCê‘1!£üKR(±`ú^ú*Â ¡GELB£}f¹±šlž7.¢2ýNG~ÍVó£Kµh¹µGx‘)*˜WQjG|AÎ£jÞ£ãµõ³Gõ*×?Ü\G¥¨û£jÞ£ãµºÛÊÃ*A¾—–GËK‹Ô£0z‡þµB¹&*ÂóuwGËK‹Ô£0z‡þµB¹&*ÂóuwGËK‹Ô£0z‡þµB¹&*ÂóuwG½èQÕ£«w<1µ4Ø'*Hê‚Gæpµt§Î;+6±ô
+¿3*Â ¡G S/Ó§ŽŽü@±ë (˜*Â ¡C¥Ô§å–t÷±ˆ8DD..å!C¬W2ÿ£Oýü1µŠ÷«c*óƒÅC}ø6Á£üKR(µ©¡¦!.0©õÂC}ø6Á£üKR(µ©¡¦!.|ÉC­?^£üKR(µ©¡¦!.W³â„GêÔ?Ì£6ÌB7±ª‹XŒ*Â ¡G S/Ó§qœ6µc&¶>*ÄE°¾Ca!Ð­£üKR(µ©¡¦!.NKGêÔ?Ì£6ÌB7±;	¨*Â ¡G S/Ó§9Rdµc&¶>*ÄE°¾C¯þb£üKR(µ©¡¦!.¼£!GêÔ?Ì£6ÌB7±#<Ø*Â ¡G S/Ó§ÀÂ6Þµc&¶>*ÄE°¾Cê§Q£üKR(µ©¡¦!.Êž9œGêÔ?Ì£6ÌB7±bÊó¾*Â ¡G S/Ó§µj4\µc&¶>*ÄE°¾C=«T×£üKR(µ©¡¦!.HŠKGêÔ?Ì£6ÌB7µš ý@*˜WQÑ  ¿sA¡·.ñøBC@F@¾§VÙ­k±6K6„.[¯ [C¿¹¿¶§¨&ÒR±4K6D.X¯ ÛC»¹¿¶§¬&ÒR±0K6D.\¯ ÛC´¹¿¶§¦&ÒR±!K6D.D¯ ÛC¹¿¶§–&ÒR±iK6D.$¯ ÛC ¹¿¶§V&ÒR±IJ6D.¤® ÛC@»¿¶§V%ÒR±ÉN6D.¤¨ ÛCLF@~§ZÙ­ë±#K6.N¯ ÛCª¹¿v§¼&ÒÒ±"K6.O¯ ÛC«¹¿v§½&ÒÒ±!K6Ä.M¯ [C¯¹¿6§CÙ-­±}äÙ.ŽäoZC@FW¬§VÙ:t±6K!˜.[¯7GC¿¹¨ê§©&ÅN±7K!˜.Z¯7GC¾¹¨ê§¨&ÅN±4K!Ø.Y¯7ÇC¼¹¨ª§­&ÅN±3K!X.]¯7ÇC¸¹¨ª§¢&ÅN±9K!X.L¯7ÇC ¹¨ª§†&ÅN±	K!X.¨PÈC³¹¨ê§¥&ÅN±:K!˜.W¯7GC²¹¨ê§¤&ÅN±;K!˜.V¯7GC±¹¨ª§§&ÅÎ±9K!Ø.S¯7GC¶¹¨*§¢&ÅÎ±Å´Þ§.=¹é=C ]¯²§ÂÂ±‰¯&À.äK0C]¯²§ÂÂ±ˆ¯&À.åK0C]¯ò§ÂÂ–±Š¯& .çK0C]¯ò§ÂÂ–±}îÚ.ÊQŒCEÜÛÑ§¬¼ÉL±4Ñ-Z.X5;ÅC¾#¤¨§¤¼ÉL±?Ñ-Z.J5;ÅC¦#¤¨§¼ÉL±OÑ-Z.¢5;ÅCF"¤¨§P¿ÉL±ÏÖ-Z.¢:;ÅCF<¤¨§PƒÉL±Ï®-Z.¢Ê;ÅCFÜ¥¨§PCÊL±Ï.*Z.¢Ê4ÅCFÜ»¨§QC6s±Í.Òe.¡ÊÄúCÀ]Ô©§(½F2±µÐ¢d.Þ4´ûC8"+–§"½Fr±‰Ð¢d.$3´ûCÀÝ+–§ÖBYr±];Y©.0ßO3C êé§ÃÐ¡î±§Öè|.ßöæuCâùVv§Ö¹x±¾®g.(!¼|C.§ÏlVq±«jã.—&CVãv§á¢#±`r.
+S>„CÇÝEž§Y¸ç±í4ÜÚ.¸ÐJCÂÓQ§ÖÌ¸H±¶^#§.Úº58CÂSUê§ÔÌ8N±J¡Ü˜.'EÊGCÃSUê§ÖÌ8Ž±I¡Ü.!UxÐC@|¸§iµ±$­tÔ.mÅÕêCÄçø‡§ÌGÏ±àSÇÃ.·Ê»çC¯eÅ§¬NÉí±–jG.RŽÛC5K$§N³±á“7}.c×ejCÁƒKE§K¨Q±içï¤.hP³CÕ<•(§ä#Ò±ƒ•Š.3l‚C(û¬c§‡ß,±±É.ñÑCÇü§ƒÝëÜ±°
+.·•Û”C Eù§ßi±±‰Š.òC›‹Šß§Œçû±Æ \#.«ÄJ<CQ”F§æ%¢½±KtB£.Ê±CHeJR§˜£Ñ±ã:c.6|ZCÎW¶§ÔÌ¸ü±ú¸.üP8CÂÆË]§àÝ84±Á—Ã¬.fEQ˜Cj©³Q§Äµ¨D±|Þ„.&EJµC”N§æu¢µ±K4B«.TÊ¹CHeJZ§ú£Q±ãk:ã.6ZCŽW6§ÔÌ¸|±™ò .üP CÂÆËE§àÝ8,±Á—Ã´.gsQCk™³Ñ§Å•¨Ä±Œ|Þ.'EJ5C”V§æu¢­±K4B³.TÊ¡CHeJB§•ñ£Ñ±âk:c.7ZCŽW¶§ÕÌ¸ü±™³¨.¼P(CÂ†ËM§à8$±Á—Ã¼.gQ˜Ck™³Q§Å•¨D±Œ|Þ„.'EJµC”^§æu¢¥±K4B».TÊ©CHeJJ§•*£Q±â»:ã.7ÜZCNW6§ÕL¸|±ñ.üPCÂÆËu§àÝ8±Á—Ã„.ä§QChI³Ñ§ÆU¨Ä±¼Þ.$ÅJ5C”f§æu¢±K4Bƒ.TÊ‘CHeJr§–$£Ñ±á»:c.4ÜZCNW¶§ÖL¸ü±™ò˜.üPCÂÆË}§àÝ8±Á—ÃŒ.d®Q˜ChI³Q§ÆU¨D±¼Þ„.$ÅJµC”n§æu¢•±K4B‹.TÊ™CHeJz§–Z£Q±áË:ã.4¼ZCW6§ÖL¸|±’8æ.ÿß™yCÃSU®§ÔL³š±KÉ×Ÿ.&%Á9CÂÞm§ÔÌ3Š±K!Wœ.¦ÁCÂÞo§ÔŒ3Œ±K¡Wš.&ÅA)Cž$¡z§ÌºÌž±Ó(ˆ.&ÍÁ(CÆÛ^E§ÄD3¡±)×·.î2¾Cž$!z§ÌºLž±Ó¨ˆ.&ÍA(CÆÛÞE§ÄD³¡±²O£¨.Ù«µ7C%½*Z§S"G¾±m°\. TJˆCÅBÕå§ÑÝ¸±Õ4Ñ™.¸ÐGC¥—<§ÄY®è±_â Ç.6ÐÜoCGÔœÂ§€ž#k±+$ÝG.·KC€,ï§6+c±jÆ^.ß¬z®C¢ÖTµ§´I9Q±÷îd.Ï¢ðCÛÄ§Á!^r±p‚Ï.Ñ»îdC3ÀÂ§6ö{±]J°.VOã”CÄò¤§M—ƒ±È*½t.={ªŠCè1Œ§1ÙßÝ±xä©.±ÅLCZÓ“a§1—‰Ë±RÙµx.&ÅQ`Cì—ýM§¼b‚ë±ùõ'.&ïŽ‚CŽüõ¾§µ(p ±@ß3<.ò%•CRÁÉ§Ü«í±ØrIû.7[$CÃÄÉ§G˜¬-±Ø5	;.¦–Ú¾CÅi§†©±Y0O›.´ZCÀØÚH§ÔL¸è±K!\>.&ÅJáCÃÓÕL§+³G—±µÞ£A.Ø:µžC<,*3§*³G—±¶Þ£A.Û:µžC>,*s§-³GW±³Þ£Á.Ò:µC2,*s§<³G—±«Þ£.ö:µC,*s§t³G—±ËÞ£.f:µCÂ,*s§T²G—±Kß£.&8µCÂ/*s§X)u±Ÿ5¼.%ÊûCÆñj§·U±h2v™.¥.[CFðj§·Õ±h²w™.¥®ZCÂS^E§ÔÌ8¥±d \ö.&»,8CÂ¯³U§ÔÌ!Î±K¡Å.&EÓÇCÃSLj§ÕÌ!Î±J¡Å.$EÓCÀSLê§×Ì!Ž±O¡Å˜.#EÓCÄSLj§ÜÌ!Ž±G¡Å˜.6EÓCÚSLj§ôÌ!Ž±¡Å˜.¦EÓCÂRLj§ÁÌ¸¡±£^3§.Æº%8C¬ºU§T3×±±K^3§.&»%8CÂ¯ºU§ÔÌ(Î±K¡Ì.&EÚÇCÃSEj§ÕÌ(Î±J¡Ì.$EÚCÀSEê§×Ì(Ž±O¡Ì˜.#EÚCÄSEj§ÜÌ(Ž±G¡Ì˜.6EÚCCÜÔ¬§ª<öñ±5Q§.XµøC¼£›Õ§©<ö±±6Q'.Zµ8C¾£›Õ§¯<ö±±0Q'.¦JûÇCB\dj§TÃ	Î±Ê®í.§JûÇCiTVš§á_%±dÏØ=.AwîCRj§}C9I±Ñ'.f5¸CÂ#šÕ§T¼÷1±ËÐ'.¦6¸CBÜej§UC±Ê.ì˜.¤Êú‡C@Üej§WC±Ï.ì. Êú‡CJÜeê§XC±Û.ì.¾Êú‡CbÜeê§z9„Q±Ï¦."×ÃCÝ`ÎC§@<?’±ÁoD.Ô5Cïeè§7d¿*±ß‰Å1.áèx;C@-§V.)±£l‚.„ßšºCÔ6Ú§¼é.(±º™`6.g3Ý°CÜ´é§[š¢±3Õ×c.=ï’C<Ý6l§ß;®±	rÒ.K´øÓC=ß{¥§…•“¹±uj¾.ÐXC—@w¥§uÚÂ±Ç/:y.7ÌÌRC³£~|§Ý;mB±YíàN.	UØåCçrR§>(þ¶±îá§Ù.t{FC­ñYp§+´bõ±l ÷m.Î³çC‡2§$0ßö±÷öŸê.˜²v—C^QJ®§Ó 3?±b‚GH.„^y;CÞ¶§½MQ?±,ß.,ÙÂECÃ8¢§Q¥8±õÕa.ÆRú†Cv`@§«fQ¢±(ÐÅ.°·¦CîŒsa§‘Å[±½U©.‡™ã<CQtõœ§‚?à±?¯-ã.~»DC•nç’§<‚±Ÿ‰©¢.UE&,CûnI+§	í…Õ±gi½.ä„]Ceoœ§Îxñ“±ÏÝSœ.#ÇÆßCNLÝ'§o)±V¾".Þ}«)CìåN§$qã0±ô©ø.Å=dC—Ê—	§êžo±Aw6.*±§Ciæª§u\å ±ŠâÕ.Š×Cª×\–§¡Ñ‘Û± ŸQ.ÍRðCùŽT§óÊ‹±ì€òÌ./ÂCOÑW§¥9w±Qx7^.F®Ñ$C%QÌ§†½R±¹VZž..Œ0ÁC&q¡Ý§Î€‘ø±TÝt.ë!V±CÐ\§ªhîï±Šx±¦.áy‹öCÅ÷É|§A1k±<öŽ.êS­?CHq#°§àî†±o¨².>wË²CÀ–Ý§
+Ê±sƒÈ2.˜È'pCß—®"§}›ø%±Lÿ'‡.«zñ1C=fv†§†ÝÈ*±t ÁM.=E€·Cužø_§,Uw±aŽQ:.ZëÞCþJ¼§Ñ«ë9±Ieû.¢¬¡CWpÝ§ÉtÄ±¯µÈ.†S¬sCÛÂ” §Ý¹²N±¥ø‹Å.NºösCZUþ¶§mã‚_±åT`S.oýY,CZUþ®§mãF±Ó§öZ.ŸjqÉCÁÑÚì§(±Èñ±·Ü,§.Ú8:øC>.¥Õ§)±È±±¶Ü,'.Ù8:¸C;.¥Õ§/±È1±¸Ü,'.Å8:¸C.¥Õ§W±È1±HÜ,'.%9:¸CÁ-¥Õ§×´È1±HÛ,'.%3:¸CÁ!¥Õ§×N7	±¼.×ð.ár†FCd«§ûtO±–Y.ër†Cè›æ§ô‹°±AÁé}.8k©(CÜ}6Å§4¤ž±©p@ˆ.Î”VWC1‚Éz§-¤Þ±N×—.Ã ìCØéd~§Îv	±Pí.?ÿû“CÑéd¾§Üv	±IíL.&Á®QCþ´¯§o&t±‰Âb.ææÔýCðKÐ§o&t±Â".¹š0}CÐÁÁÈ§Æ^¬¬±¦Ì·.Ê(¡šC,>>÷§0¡SS±´Ì·.Ó(¡ÚC—Õá§GƒB±€*gÔ.ìÎqKC
+Øî&§é¸|=±mÕ˜k.
+1Ž´C ¿¤ª§ä,.Æ±„¾5o.éZ#pCL¼§ÓÑù±¾5¯.ûZ#pCL¼]§³Òa±¢Xå¾.Ï¼ó¡CÔU“s§ÃÊþ—±^§.9C^CÆU“s§ÚÊþ×±|Ð`³.Úxë÷CÁ‘‹e§×æ±Ic.&‡ˆCÈ‘‹¥§Åæ±PcW.ÆÞuCçw[´§Éo±z-y.ÿž;æCˆ¤Ë§Éo±‰z-9.ì}–Cö0§õ|dë±k€ý.õ–bCêã	O§ç|dë±r€½.%k¥CÈ3e´§óÈsP±eëÈ’.yûõ3CTÂõÿ§vA ±µíË.?úpC)ÉkM§ÞïJQ±®ä’A.8ë¾HC>n]¹§ûe±ùIî².8k¸fC'
+Ž§èÈ±Y3Yt.íÎ`…C|Í§ä,?ˆ±ž´».Ï¼âoCò³EM§ÆÞ!J±O!L4.$ÅÚ‚CÁÓEo§×L(±O!Ì."ÅÚ‚C9,ºÐ§/³×´±[8’ó.À].¿CÄ(Üô§N$…>±6Í É.ÎcS-Cób¬Á§À¨·±T]:».¼EÆ,C>Ñá\§>Å¥ð±Ù¢ á.´F6þCL\|Ã§DÏÄw±Ú¢ á.]-àCq4ª´§ÒÙ˜±Ô³¹.ùDIUCHÇz§fµe±ŽÕE.ë#Ÿ·CxãŒ§j†±†xê4.Jp>CC™D²#§ÛŸÇ±¶».™ÏC]E0 §É»Ü±Á1ó&.ýëGlC#·§®m>±ñ&.úçtÈCŽc†§¸ýÌŠ±/¶;.QRmNCšD2£§JêÆ±Ô»¹’.ùLI•CHÏz”§nµe±ŽÝE.ë+Ÿ·CxëŒT§b†±†pê4.Jx>CC·D²#§ÛŸG±¶»Ñ.™OC]M0`§Á»\±Á9óf.ýãG,C+·§¦m>±ñ¦.úïtˆC†cÆ§¸õÌÊ±¶;Q.}RmÎC™D2#§}êÆ±Ô£¹’.ùTIÕCH×z”§vµå±ŽÅE.ë3Ÿ·CxóŒT§z†±†hê4.J`>CC˜D²£§ÛŸG±¶»Ñ.–™ÏC]U0 §
+Ù»œ±Á!óf.ýûG¬C3·§¾m>±ðf.ú÷tHCžcF§¸íÌ
+±¶;Q.|RmÎC„D2#§hêF±Ô«¹’.ø\ICHßzÔ§~µe±ŽÍE.ë;Ÿ·CyûŒÔ§r†±‡`êt.Jh>CC™D²£§ŽÛŸG±¶»Ñ.š™ÏC]]0`§Ñ»±Á)ó&.ýóGìC;·§¶m~±ñ¦.úÿtˆC–cÆ§¸åÌÊ±¶;Ñ.}RmÎC¦D2ã§fêF±Ò±Ú.¿UÌNC[CSc§²#Á8±-N%n.Aª31C¥¼¬§³#Á8±,N%n.Bª3qC§¼¬œ§MÜ®Õ±Ó±JC.½U\ÜC_CÃ±§µ#Qj±&Nµ|.Oª£ãC³¼<Ž§­#Qj±Nµ|.ª£ãCUùs5§BfQ±ÝúÇ.³ïìØCWùs5§@fQ±ØúG.·ïìØC]ùsµ§·™án±,ôx.YçCµŒŠ§“™án±ôx.¿UFœC[CÙ1§²#Kj±,N¯|.Bª¹ãC§¼&Ž§MÜ%×±Ó±ÁA.@ª(áC¥¼·§³#Úh±/N>~.Cª(áC¡¼·Œ§µ#Úh±"N>~./OW…CÒYÈÈ§ÁÆ¥ì±_«Az.4_ÕÔCñIJ9§²Ö']±Š»ÃK.._FÕCÉIÙ¸§ßÖ´Ü±A»PJ.,_FUC7¶&§!)Kc±¹D¯u.× ¹êC;¶&‡§ÙÆ¥O±J«AY.#OWÆCÛYÈ«§19Zp±Ê¨Y—.ÉNaC .3§¿CW±œÒ§Á.ñ6±ÞC .3§ ¿CW±žÒ§Á./OE•CËYÚ8§ÝÆ·œ±C«SJ..OEUC5¦%§#9Hc±Ú´üù.´PêæCPFuK§GÙ/±g"IC.Æ_\CïÐÀ±§úO­Õ

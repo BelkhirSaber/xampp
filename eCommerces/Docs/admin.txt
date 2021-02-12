@@ -1,0 +1,5 @@
+=====================================
+=== DOCUMENTAIOTN FOR ADMIN PAGES ===
+=====================================
+$NoNavbar : Variable For Not Including Navbar In The Page IF You Exist This Variable
+$PageTitle : Variable For Set Specific Title For Any Pages IF This Variable Not Exist OR Empty Replace With Default Value

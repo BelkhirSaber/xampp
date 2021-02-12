@@ -1,0 +1,14 @@
+=====================================================================
+======================== CATEGORIES PAGE ============================
+=====================================================================
+1 Create Table Categories With Column
+ID, NAME, DESCRIPTION, VISIBILTY, ORDERING, ALLOW-COMMENT, ALLOW-ADS
+2 Page Manage Categories
+3 Page Add New Categories
+4 Page Insert Categories
+5 Page Edit Categories
+6 Page Update Categories
+7 Page Delete Categories
+        ==================================================
+        ================ CATEGORIES FUNCTION =============
+        ==================================================
